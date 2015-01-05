@@ -1,0 +1,581 @@
+iTunes Store
+DIENSTLEISTUNGSBEDINGUNGEN
+A. VERKAUFSBEDINGUNGEN DES ITUNES STORES, DES MAC APP STORES, DES APP STORES UND DES IBOOKS STORES
+B. NUTZUNGSBEDINGUNGEN DES ITUNES STORES
+C. NUTZUNGSBEDINGUNGEN DES MAC APP STORES, DES APP STORES UND DES IBOOKS STORES
+
+DIE NACHFOLGENDEN VEREINBARUNGEN ZWISCHEN IHNEN UND ITUNES SARL ("ITUNES") REGELN IHRE NUTZUNG DES ITUNES STORES, DES MAC APP STORES, DES APP STORES UND DES IBOOKS STORES (die “STORES“). BITTE KLICKEN SIE AUF "EINVERSTANDEN", UM DIESEN BEDINGUNGEN ZUZUSTIMMEN. WENN SIE DIESEN BEDINGUNGEN NICHT ZUSTIMMEN, KLICKEN SIE NICHT AUF "EINVERSTANDEN" UND NUTZEN SIE NICHT DEN ITUNES STORE, DEN MAC APP STORE, DEN APP STORE ODER DEN IBOOKSTORE. DIESE VEREINBARUNGEN FINDEN ANWENDUNG UNBESCHADET ETWAIGER SOFTWARELIZENZVERTRÄGE, DIE SIE ABGESCHLOSSEN HABEN (BEISPIELSWEISE FÜR DIE NUTZUNG DER ITUNES ANWENDUNG).
+
+WEITERE INFORMATIONEN ÜBER UNSERE PRODUKTE UND DIENSTLEISTUNGEN SIND AUF http://www.apple.com/support/.
+
+A. VERKAUFSBEDINGUNGEN DES ITUNES STORES, DES MAC APP STORES, DES APP STORES UND DES IBOOKS STORES
+
+ZAHLUNG, STEUERN, UND WIDERRUFSRECHT
+
+Sie sind verpflichtet, alle Produkte, die Sie über die Stores kaufen, zu bezahlen. iTunes kann Ihr Zahlungsmittel für alle gekauften Produkte und alle zusätzlichen Beträge, die durch oder im Zusammenhang mit Ihrem Konto anfallen, belasten (einschließlich aller Steuern und etwaiger Mahngebühren). Sie sind für die fristgemäße Zahlung aller Gebühren sowie für die Angabe eines gültigen Zahlungsmittels für Zahlungszwecke verantwortlich. Für detaillierte Informationen zur Rechnungsstellung bei Einkäufen besuchen Sie bitte http://support.apple.com/kb/HT5582. Sie sind damit einverstanden sämtliche Rechnungen in einem elektronischen Format, einschließlich E-mail, zu erhalten.
+
+Ihr Gesamtpreis beinhaltet den Preis des Produktes und die am Tage des Downloads gültige Mehrwertsteuer. Mit der Nutzung des iTunes Store für Österreich geben Sie Österreich als Wohnsitzland zu Steuerzwecken an.
+
+Widerrufsrecht: Wenn Sie Ihre Bestellung rückgängig machen möchten, können Sie sie binnen 14 Tagen nachdem Sie die Quittung erhalten haben ohne Angabe von Gründen widerrufen. Dies gilt nicht für iTunes-Geschenke, nachdem der jeweilige Code eingelöst wurde.
+
+Um Ihre Bestellung rückgängig zu machen, müssen Sie uns über Ihre Entscheidung informieren. Um die unverzügliche Bearbeitung sicherzustellen, empfehlen wir Ihnen für die Stornierung von sämtlichen Artikeln (ausgenommen iTunes Match, iTunes Geschenke und Guthabenkonten) “Problem melden” zu nutzen; für die Stornierung von iTunes Match, und, sofern nicht bereits eingelöst, iTunes Geschenken und Guthabenkonten empfehlen wir Ihnen den iTunes Support zu kontaktieren. Sie haben ebenfalls das Recht, uns über Ihren Entschluss eine Bestellung zu stornieren zu informieren, indem Sie das Muster-Widerrufsformular verwenden oder eine andere eindeutige Erklärung abgeben. Wenn Sie “Problem melden” nutzen werden wir Ihnen unverzüglich eine Bestätigung über den Eingang Ihrer Stornierung übermitteln.
+
+Zur Einhaltung der Widerrufsfrist müssen Sie die Mitteilung über die Stornierung der Bestellung vor Ablauf der 14-Tage Frist absenden.
+
+Folgen des Widerrufs: Wir werden Ihnen die Zahlung innerhalb von 14 Tagen nach Erhalt Ihrer Widerrufsmitteilung zurückerstatten. Für die Rückzahlung verwenden wir dasselbe Zahlungsmittel, das Sie bei der Transaktion eingesetzt haben und werden Ihnen hierfür keine Entgelte berechnen.
+
+Ausnahme zum Widerrufsrecht: Sie können eine Bestellung für digitale Inhalte nicht widerrufen, wenn die Lieferung mit Ihrer ausdrücklichen Zustimmung und Ihrer Kenntnisnahme, dass Sie dadurch Ihr Widerrufsrecht verlieren, begonnen hat.
+
+Muster-Widerrufsformular:
+
+- An iTunes S.à r.l., 31-33, rue Sainte Zithe, L-2763 Luxembourg:
+- Hiermit widerrufe ich den von mir abgeschlossenen Vertrag für:
+[BESTELLNUMMER, ARTIKEL, INTERPRET UND ART EINFÜGEN]
+- Bestellt am [DATUM EINFÜGEN] / erhalten am [DATUM EINFÜGEN]
+- Name des Verbrauchers
+- Anschrift des Verbrauchers
+- Datum
+
+Solange noch kein Einkauf erfolgt ist, kann iTunes jederzeit die Preise von Produkten, die über die Stores angeboten werden, ändern. Die Stores bieten keine Preisgarantie oder gewähren keine Kaufpreisrückerstattung für den Fall einer Preisreduzierung oder eines Sonderangebotes, die nach einem Einkauf angeboten werden.
+
+Wenn ein Produkt nach einem Einkauf, aber vor dem Download, nicht mehr verfügbar ist, wird Ihr einziger Anspruch voraussichtlich auf eine Rückerstattung des Preises beschränkt sein, welchen Sie für das nicht mehr verfügbare Produkt bezahlt haben. Sollten technische Probleme die Lieferung Ihres Produkts verhindern oder in unangemessener Weise verzögern, ist Ihr ausschließlicher und einziger Anspruch nach Entscheidung von iTunes entweder Ersatzlieferung oder die Rückerstattung des bezahlten Preises.
+
+1-Click®
+
+1-Click ist eine von Amazon.com, Inc. registrierte und lizenzierte Dienstleistungsmarke. 1-Click ist eine angenehme Funktion, die es Ihnen erlaubt, in den Stores mit nur einem Klick Ihrer Maus oder eines anderen Eingabegerätes einzukaufen. Wenn Sie mit Ihrem Computer auf die Stores zugreifen, kann 1-Click mit Hilfe des Dialogfensters, das erscheint, wenn Sie auf eine Kaufen-Taste klicken, aktiviert werden. (Sie können die Aktivierung jederzeit durch Klicken auf Warnungen Zurücksetzen in Ihren Kontoinformationen rückgängig machen). Sollten Sie mit Ihren Geräten von Apple, die mit iOS betrieben werden, beispielsweise einem iPad, iPod touch oder iPhone (“iOS Gerät“), auf die Stores zugreifen, wird 1-Click bei jedem Einkauf aktiviert, wenn Sie auf die Taste drücken, die den Preis des Produktes anzeigt; diese Taste ist zugleich die Kaufen-Taste. Wenn 1-Click aktiviert ist, wird mit Klicken oder Drücken der Kaufen-Taste der Download unverzüglich gestartet und Ihr Einkauf wird ohne weitere Zwischenschritte abgeschlossen.
+
+GESCHENKGUTSCHEINE, ITUNES KARTEN UND CODES, GUTHABENKONTEN UND CONTENT CODES
+
+Geschenkgutscheine, iTunes Karten und Codes, Content Codes und Guthabenkonten, zusätzlich zu ungenutzten Guthaben, können nicht in Bargeld eingelöst werden und, mit Ausnahme des oben beschriebenen Widerrufsrechts für Käufe aus dem iTunes Store sowie anderslautender Widerrufsregelungen des Veräußerers von dem der Artikel erworben wurde, nicht gegen Bargeld zurückgegeben werden (unbeschadet etwaiger bestehender Rechte bezüglich einer Kaufpreisrückerstattung im Falle von mangelhaften Geschenken), nicht umgetauscht werden, nicht weiterverkauft werden und nicht zum Kauf von Geschenken, Geschenkgutscheinen oder iTunes Karten oder Codes, zur Einräumung von Guthaben auf einem Guthabenkonto, für Einkäufe im Apple Online Store und im Apple Einzelhandelsgeschäft verwendet werden. Ungenutzte Guthaben können nicht übertragen werden.
+
+Geschenkgutscheine, iTunes Karten und Codes, Content Codes und Guthabenkonten, die in Österreich erworben wurden, können nur über die Stores in Österreich eingelöst werden.
+
+iTunes ist nicht für verlorengegangene oder gestohlene Geschenkgutscheine, iTunes Karten und Codes, Content Codes oder Guthabenkonten verantwortlich. Das Verlustrisiko und die Rechte an Geschenkgutscheinen, iTunes Karten und Codes und Guthabenkonten, die auf elektronischem Wege übermittelt werden, gehen auf den Erwerber in Österreich zum Zeitpunkt der elektronischen Übermittlung über. Das Verlustrisiko und die Rechte an Content Codes gehen nach elektronischer Übertragung von iTunes Luxemburg über.
+
+iTunes behält sich das Recht vor, Konten zu schließen und andere Zahlungsformen zu verlangen, wenn ein Geschenkgutschein, eine iTunes Karte oder Code, ein Content Code oder ein Guthabenkonto arglistig erlangt oder in den Stores verwendet wurde.
+
+GESCHENKE
+
+In den Stores erworbene Geschenke können nur für Personen in Österreich gekauft und nur von Personen in Österreich eingelöst werden. Zur Verwendung einiger Geschenke muss der Beschenkte die entsprechende kompatible Hardware und Einstellungen zur Kindersicherung haben.
+
+WICHTIGE SICHERHEITSINFORMATIONEN
+
+Zur Vermeidung von Muskel-, Gelenk- oder Augenüberanstrengungen bei der Nutzung der in den Stores angebotenen Produkte sollten Sie immer regelmäßige Pausen einlegen und die Nutzung länger unterbrechen, wenn Sie Schmerzen haben, müde sind oder sich unwohl fühlen. Ein sehr kleiner Prozentsatz von Personen kann durch blinkende Lichter oder Bilder, denen Sie insbesondere beim Spielen von Videospielen oder beim Anschauen von Videos ausgesetzt sind, Anfälle oder Ohnmacht erleiden. Symptome können Schwindel, Übelkeit, unkontrollierte Bewegungen, Bewusstseinsverlust, Sehstörungen, Juckreiz, Benommenheit oder andere Beschwerden sein. Sollten bei Ihnen jemals diese oder ähnliche Symptome aufgetreten sein, konsultieren Sie bitte einen Arzt, bevor Sie die Produkte nutzen. Wenn diese oder ähnliche Symptome während der Nutzung der Produkte auftreten, beenden Sie unverzüglich die Nutzung der Produkte und gehen Sie zum Arzt. Eltern sollten bei ihren Kindern darauf achten, ob sich bei diesen während der Nutzung der in den Stores angebotenen Produkte Anzeichen dieser Symptome zeigen.
+
+VORBESTELLUNGEN
+
+Bei der Vorbestellung von Produkten gestatten Sie den Stores, Ihr Konto automatisch zu belasten und, sofern Sie die automatische Lieferung aktiviert haben, das Produkt herunterzuladen, sobald es zur Verfügung steht. Sie können Ihre Vorbestellung jederzeit stornieren bevor der Artikel zur Verfügung steht, desweiteren gelten die Regelungen zum Widerrufsrecht wie oben beschrieben.
+
+FAMILY SHARING
+
+Durch Family Sharing können Sie infrage kommende iTunes, App Store, Mac App Store und iBooks Store Produkte mit bis zu sechs Mitgliedern (inklusive Ihnen selbst) einer „Familie“ teilen. Wenn Sie eine Familie erstellen oder einer Familie beitreten, können Sie die Infrage kommenden Produkte anderer Mitglieder der Familie sehen und diese Produkte auf Ihr kompatibles Gerät oder Ihren kompatiblen Computer herunterladen. Sie können Einkäufe verbergen, sodass andere Mitglieder der Familie diese Einkäufe nicht sehen oder herunterladen können. Sie können Informationen teilen, wie Fotos und Videos über die Photo App, Ereignisse über den Family Calendar, Erinnerungen über die Reminders App, Standortinformationen über Find My Friends, sowie den Standort eines Gerätes über Find My iPhone. Family Sharing ist nur für den privaten, nicht-kommerziellen Gebrauch bestimmt. Um eine Familie erstellen oder einer Familie beitreten zu können, ist ein iTunes-Konto und ein iCloud-Konto erforderlich, sowie iOS 8 und/oder OS X Yosemite. Einzelne Transaktionen und Funktionen könnten mit einer früheren Version der Software nicht kompatibel sein und erfordern möglicherweise ein Software Upgrade. Wenn Sie einer Familie beitreten, werden die Funktionen des Family Sharing auf Ihren kompatiblen Geräten automatisch aktiviert.
+
+Der „Organisator“ einer Familie kann andere Mitglieder einladen, an der Familie teilzunehmen. Der Organisator muss 18 Jahre oder älter sein und ein gültiges Zahlungsmittel bei iTunes registriert haben. Wenn Sie ein Organisator sind, leisten Sie dafür Gewähr, dass Sie ein Elternteil oder ein gesetzlicher Erziehungsberechtigter jedes Familienmitglieds unter 13 Jahren sind. Das registrierte Zahlungsmittel des Organisators wird für jeden Kauf eines Familienmitglieds verwendet, der über das vorhandene Guthaben des Store-Kontos des Familienmitglieds hinausgeht. Familienmitglieder handeln als Bevollmächtigte des Organisators, wenn sie das registrierte Zahlungsmittel des Organisators verwenden. Die Produkte werden mit dem Konto des Familienmitglieds, welches die Transaktion einleitete, verbunden. DURCH DAS EINLADEN EINES FAMILIENMITGLIEDS ZUM BEITRITT ZU EINER FAMILIE STIMMT DER ORGANISATOR ZU, DASS ALLE KOSTEN FÜR EINKÄUFE, DIE VON FAMILIENMITGLIEDERN GETÄTIGT WURDEN, VOM ORGANISATOR GENEHMIGT WURDEN UND VON DIESEM VERANTWORTET WERDEN, SELBST WENN ER VON EINZELNEN TRANSAKTIONEN NICHT KENNTNIS ERLANGTE, WENN EIN FAMILIENMITGLIED DIE VOM ORGANISATOR ERTEILTE VOLLMACHT ÜBERSCHREITET ODER WENN MEHRERE FAMILIENMITGLIEDER DASSELBE PRODUKT MEHRFACH ERWERBEN. DER ORGANISATOR IST VERANTWORTLICH FÜR DIE EINHALTUNG DER VEREINBARUNGEN MIT SEINEM ZAHLUNGSMITTELANBIETER UND ÜBERNIMMT JEGLICHES RISIKO, FALLS DAS TEILEN DES ZUGANGS ZU EINEM SOLCHEN ZAHLUNGSMITTEL DEN VOM ZAHLUNGSMITTELANBIETER GEWÄHRTEN SCHUTZ EINSCHRÄNKT. Der Organisator kann das registrierte Zahlungsmittel jederzeit ändern. Die Daten des Kaufes werden dem den Kauf auslösenden Familienmitglied und dem Organisator gesendet, selbst wenn der Kauf vom jeweiligen Familienmitglied verborgen wird. Bitte verwenden Sie die „Berichte ein Problem“ Funktion auf Ihrer Rechnung, wenn Sie oder Ihre Familienmitglieder eine Belastung auf der Abrechnung Ihres Zahlungsmittels nicht wiedererkennen.
+
+Der Organisator kann die „Ask to Buy“ Funktion nutzen, um es für Kinder unter 18 Jahren erforderlich zu machen, die Zustimmung des Organisators und/oder anderen vom Organisator benannten Erwachsenen einzuholen, um kostenfreie oder kostenpflichtige Produkte herunterzuladen, bevor der Kauf oder der Download eingeleitet wird. Produkte, die ein Familienmitglied von einem anderen Familienmitglied herunterlädt oder durch einen Rücknahme-Code erworben wurden, unterliegen nicht der „Ask to Buy“-Funktion. Wenn Sie ein Organisator sind, leisten Sie dafür Gewähr, dass Sie und/oder jeder von Ihnen benannte Erwachsene ein Elternteil oder ein gesetzlicher Erziehungsberechtigter eines jeden Familienmitglieds sind, für das die „Ask to Buy“ Funktion aktiviert ist. „Ask to Buy“ ist für iOS 8 und OS X Yosemite optimiert. Produktkäufe oder Downloadanfragen einer früheren Softwareversion könnten Nutzer mit alternativen Genehmigungsprozessen konfrontieren oder Käufe gänzlich verhindern. Ein Software Upgrade könnte notwendig sein. iTunes ist nicht verantwortlich für jeglichen Schaden, der durch eine Verzögerung der „Ask to Buy“-Zustimmung oder -Verweigerung entsteht.
+
+Der Organisator kann Familienmitglieder von der Familie entfernen und diesen Familienmitgliedern damit die Möglichkeit nehmen autorisierte Käufe über das Zahlungsmittel des Organisators einzuleiten und Produkte und Informationen anderer Familienmitglieder zu betrachten und zu teilen. Wenn ein Familienmitglied aus einer Familie austritt oder von einer Familie entfernt wird oder die Apple ID des Organisators aus jedwedem Grund gekündigt wird, haben die verbliebenen Familienmitglieder unter Umständen nicht mehr die Möglichkeit, Produkte oder Informationen des austretenden Familienmitglieds zu betrachten oder herunterzuladen, oder auf zuvor durch die verbliebenen Familienmitglieder vom austretenden Familienmitglied heruntergeladene Produkte zuzugreifen, inklusive Einkäufe, die über das Zahlungsmittel des Organisators getätigt wurden während das austretende Mitglied Teil der Familie war. Wenn Sie aus der Familie austreten, haben Sie gleichermaßen nicht mehr die Möglichkeit Produkte oder Informationen anderer Familienmitglieder zu betrachten oder herunterzuladen und auf Produkte zuzugreifen, welche Sie von anderen Familienmitgliedern heruntergeladen haben, während Sie ein Mitglied der Familie waren. Wenn Sie einen In-App Kauf für eine App getätigt haben, welche ursprünglich von einem ausgetretenen Familienmitglied gekauft wurde, oder welche Sie von einem Familienmitglied heruntergeladen haben deren Familie Sie nicht mehr angehören, müssen Sie die App selbst kaufen und die In-App Käufe wiederherstellen, um den Zugriff auf diese In-App Käufe wieder zu erlangen. Bitte beachten Sie die Entwickler-Richtlinien und die Bestimmungen zu „In-App Käufe“ in diesem Vertrag, bevor Sie In-App Käufe tätigen. Da persönliche Konten für Nutzer unter 13 Jahren nur innerhalb der Family Sharing-Funktion erstellt werden können, führt das Löschen eines solchen Kontos zur Löschung der Apple ID dieses Familienmitglieds und dessen Möglichkeit auf jene Dienste von Apple zuzugreifen, die eine Apple ID benötigen oder auf jeglichen Inhalt zuzugreifen, der mit dieser Apple ID verbunden ist.
+
+Sie können gleichzeitig nur einer Familie angehören und einer Familie nicht öfter als zwei Mal pro Jahr beitreten. Sie können das Store-Konto, welches Sie mit einer Familie verbunden haben, nicht öfter als einmal alle 90 Tage wechseln. Alle Familienmitglieder müssen dasselbe Land oder dieselbe Region des iTunes Store verwenden. Musik, Filme, Serien und Bücher können vom iTunes Dienst auf bis zu 10 Geräte pro Konto heruntergeladen werden, von denen höchstens fünf davon Computer sein können. Infrage kommende Apps können auf jegliches Gerät heruntergeladen werden, welches ein Familienmitglied besitzt oder kontrolliert. Nicht alle Produkte, inklusive In-App Käufe, Inhalte die nicht zum neuerlichen Herunterladen verfügbar sind, Abonnements und einige zuvor gekaufte Apps, sind für Family Sharing geeignet. Apple behält sich das Recht vor, Familien in Übereinstimmung mit den Kündigungsbestimmungen dieses Vertrags aufzulösen.
+
+ELEKTRONISCHER VERTRAGSABSCHLUSS
+
+Die Nutzung des Stores bietet Ihnen auch die Möglichkeit, auf elektronischem Wege Verträge abzuschließen und/oder Einkäufe zu tätigen. Sie wissen, dass Ihre elektronischen Eingaben Ihre Einwilligung und Ihre Absicht begründen, sich an die Verträge rechtlich zu binden und für die Einkäufe entsprechend den Verträgen zu bezahlen. Ihre Einwilligung und Ihre Absicht, sich durch die elektronischen Eingaben rechtlich zu binden, finden auf alle Aufzeichnungen im Zusammenhang mit allen Einkäufen, die Sie auf dieser Seite tätigen, Anwendung, einschließlich Stornierungsanzeigen, Richtlinien, Verträgen und Anwendungen. Um Zugang zu Ihren elektronischen Aufzeichnungen zu bekommen und um diese abzurufen, kann eine bestimmte Hardware und Software erforderlich sein. Dies liegt jedoch in Ihrer Verantwortung.
+
+iTunes ist nicht für Eingabefehler verantwortlich.
+
+Diese Vereinbarung wird nur in deutscher Sprache zur Verfügung gestellt.
+
+B. NUTZUNGSBEDINGUNGEN DES ITUNES STORES
+
+DIESE VEREINBARUNG ZWISCHEN IHNEN UND ITUNES SARL ("ITUNES") REGELT IHRE NUTZUNG DES ITUNES STORE DIENSTES (“DER "DIENST").
+
+DER ITUNES STORE DIENST
+
+iTunes ist der Anbieter des Dienstes, der es Ihnen ermöglicht, auf eine Nutzungslizenz für digitale Inhalte ("iTunes Produkte") dauerhaft zuzugreien, sie zu kaufen oder vorübergehend zu mieten, jedoch nur zur Nutzung als Endnutzer entsprechend den Nutzungsbedingungen, die in dieser Vereinbarung dargestellt werden. iTunes ist nicht der Anbieter der iTunes Anwendung und auch nicht der Anbieter des iPad, des iPod oder des iPhones.
+
+VORAUSSETZUNGEN FÜR DIE NUTZUNG DES DIENSTES
+
+Ausschließlich Personen, die 13 Jahre oder älter sind, können Konten erstellen. Konten für Personen unter 13 Jahren können von Eltern oder Erziehungsberechtigten, die Family Sharing nutzen erstellt werden. Kinder, die unter 18 Jahre alt sind, sollten diese Vereinbarung mit Ihren Eltern oder gesetzlichen Erziehungsberechtigten durchsehen und sichergehen, dass das Kind und Ihre Eltern oder gesetzlichen Erziehungsberechtigten diese Vereinbarung verstehen.
+
+Der Dienst steht Ihnen nur in Österreich zur Verfügung. Sie dürfen den Dienst nicht von außerhalb Österreichs nutzen oder versuchen zu nutzen. iTunes kann mit Hilfe von technischen Mitteln die Einhaltung dieser Bestimmung überprüfen.
+
+Die Nutzung des Dienstes erfordert kompatible Geräte, Internetzugang und gewisse Software (hierdurch können weitere Gebühren anfallen). Zudem können regelmäßige Updates erforderlich sein. Die Nutzung des Dienstes kann von der Leistungsfähigkeit dieser Faktoren abhängen. Für die regelmäßige Nutzung ist ein highspeed Internetzugang sehr zu empfehlen, für das Ausleihen von Filmen ist ein solcher erforderlich. Die aktuelle Version der iTunes Software wird für den Zugang zum Dienst empfohlen und kann für bestimmte Einkäufe oder Funktionen und für den Download von iTunes Produkten erforderlich sein, welche zuvor vom Dienst gekauft oder erworbenwurden. Sie wissen, dass die Erfüllung dieser Voraussetzungen, die sich von Zeit zu Zeit ändern können, in Ihrer Verantwortung liegt. Der Dienst ist nicht Teil eines anderen Produktes oder Angebotes. Der Kauf oder der Erhalt von einem anderen Produkt kann nicht dahingehend ausgelegt werden, dass Ihnen der Zugang zum Dienst zugesichert wird.
+
+IHR KONTO
+
+Als beim Dienst angemeldeter Nutzer können Sie ein Konto ("Konto") einrichten. Geben Sie Ihre Kontoinformationen nicht an Dritte weiter. Sie sind allein für die Aufrechterhaltung der Vertraulichkeit und Sicherheit Ihres Kontos und für alle Aktivitäten, die auf Ihrem oder über Ihr Konto stattfinden, verantwortlich. Sie sind verpflichtet, iTunes unverzüglich über etwaige Sicherheitsverstöße im Hinblick auf Ihr Konto zu benachrichtigen. iTunes ist nicht für Verluste verantwortlich, die durch eine unerlaubte Nutzung Ihres Kontos entstehen.
+
+Zum Erwerb und Download von iTunes Produkten im Rahmen der Dienste müssen Sie Ihre Apple ID und Ihr Passwort oder Touch ID verwenden, um Ihr Konto für Transaktionen zu authentifizieren. Nachdem Sie Ihr Konto mithilfe Ihrer Apple ID und Ihres Passwortes authentifiziert haben, ist eine erneute Authentifizierung auf Ihrem Computer oder iOS Gerät innerhalb der nächsten fünfzehn Minuten nicht mehr erforderlich. Sie können Ihrem Computer oder Apple TV die Speicherung Ihres Passwortes erlauben, um authentifiziert zu bleiben. Innerhalb dieser Zeitspanne sind der Erwerb und das Herunterladen von iTunes Produkten ohne erneute Passworteingabe möglich. Sie können die Möglichkeit Transaktionen über iTunes Produkten deaktivieren oder für jede Transaktion ein Passwort festlegen, indem Sie die Einstellungen Ihres Computers, iOS Geräts oder Apple TVs ändern. Weitere Informationen finden Sie unter http://support.apple.com/kb/HT1904 und http://support.apple.com/kb/HT4213.
+
+Sie sind verpflichtet, richtige und vollständige Angaben zu machen, wenn Sie sich für den Dienst anmelden und den Dienst nutzen ("Anmeldedaten"). Sie sind verpflichtet, Ihre Anmeldedaten immer auf dem neusten Stand zu halten, damit Sie richtig und vollständig sind. Sie willigen ein, dass iTunes Ihre angegebenen Anmeldedaten speichern und nutzen darf, um Ihnen das Konto zur Verfügung zu stellen und Ihnen Gebühren im Zusammenhang mit dem Konto in Rechnung zu stellen.
+
+AUTOMATISCHE LIEFERUNG UND AUTOMATISCHES HERUNTERLADEN BEREITS GEKAUFTER INHALTE
+
+Wenn Sie erstmals iTunes Musik, gekaufte (d.h. nicht gemietete) Film- und Musik-Video-Produkte (zusammen “Infrage kommende iTunes”) erwerben, haben Sie die Möglichkeit, automatisch Kopien von diesen Infrage kommende iTunes Inhalten auf weiteren kompatiblen iOS Geräten (ausgenommen iTunes Film-Produkte) und iTunes-autorisierten Computern mit kompatibler Software zu erhalten ("Auto-Download"), indem Sie solche iOS Geräte und Computer unter Einhaltung der folgenden Verbindungsbestimmungen verbinden (jeweils ein "Verbundenes Gerät"). Sie können für jedes Verbundene Gerät jeweils die Art der Infrage kommenden iTunes Inhalte, falls vorhanden, für den Auto-Download festlegen. Bei einem Verbundenen Gerät mit der Fähigkeit zum Empfang von Push-Benachrichtigungen („Push-Fähig“), einschließlich der iOS Geräte, werden die Infrage kommenden iTunes Inhalte per Auto-Download automatisch auf das Verbundene Gerät heruntergeladen, wenn das Verbundene Gerät mit dem Internet verbunden ist; bei einem nicht Push-Fähigen Verbunden Gerät, erscheinen die Infrage kommenden iTunes Inhalte automatisch in der Download-Warteschlange und Sie können den Download in iTunes manuell auslösen.
+
+Nach Erwerb von Infrage kommenden iTunes-Inhalten können Sie aus reiner Gefälligkeit Ihnen gegenüber bestimmte dieser zuvor erworbenen Infrage kommenden iTunes Inhalte auf jedes Verbundene Gerät herunterladen. Nicht alle Infrage kommenden iTunes Inhalte stehen zu jeder Zeit zum erneuten Download zur Verfügung. iTunes übernimmt keine Haftung für den Fall, dass Infrage kommende iTunes Inhalte, die bereits vorher erworben wurden, für einen erneuten Download nicht mehr zur Verfügung stehen. Da Ihnen der erneute Download von zuvor erworbenen Infrage kommenden iTunes Inhalten möglicherweise nicht mehr möglich ist, nachdem Infrage kommende iTunes Inhalte heruntergeladen wurde, sind Sie dafür verantwortlich, dass die Infrage kommenden iTunes Inhalte nicht verloren gehen, zerstört oder beschädigt werden. Außerdem sollten Sie die Infrage kommenden iTunes Inhalte sichern.
+
+Die Verbindung von Verbundenen Geräten unterliegt den folgenden Bestimmungen:
+
+(i) Sie sind zum Auto-Download der Infrage kommenden iTunes Inhalte oder zum erneuten Download von zuvor erworbenen Infrage kommenden iTunes Inhalten von einem Konto auf bis zu 10 Verbunde Geräte berechtigt, von denen nicht mehr als 5 iTunes-autorisierte Computer sein dürfen.
+
+(ii) Ein Verbundenes Gerät darf jeweils nur mit einem Konto gleichzeitig verbunden sein.
+
+(iii) Sie dürfen ein Verbundenes Gerät nur einmal innerhalb eines Zeitraums von 90 Tagen auf ein anderes Konto wechseln.
+
+(iv) Kostenlose zuvor erworbene Inhalte dürfen auf eine unbeschränkte Anzahl von Geräten erneut heruntergeladen werden, solange die Inhalte im iTunes Service kostenlos angeboten werden, allerdings nicht auf mehr als 5 iTunes autorisierten Computern.
+
+Ein Apple TV gilt nicht als “Verbundenes Gerät”. Nichtsdestotrotz können gekaufte (i.e. nicht gemietete) Film iTunes Produkte auf kompatiblen Apple TV-Geräten wiedergegeben werden, vorausgesetzt, dass Sie solche Filme nur auf einer limitierten Anzahl von Apple TV-Geräten zur gleichen Zeit wiedergeben.
+
+Bestimmte Teile von Infrage kommenden iTunes Inhalten können gross sein und die Lieferung solcher Infrage kommender iTunes Inhalte über eine Datenverbindung kann erhebliche Gebühren verursachen.
+
+ITUNES MATCH
+
+iTunes Match erlaubt Ihnen einen Fernzugriff auf Ihre abgeglichenen oder heruntergeladenen Songs und Musikvideos, die Sie mit Ihrem Konto gekauft haben, zusammen mit zugehörigen Metadaten, Playlisten und anderen Informationen zu Ihrer iTunes Bibliothek (“iTunes Match Inhalte”).
+
+Sie können iTunes Match gegen eine Jahresgebühr abonnieren. iTunes muss eine gültige Kreditkarte von Ihnen vorliegen, um das Abonnement beziehen zu können. Das Abonnement ist nicht erstattungsfähig (es sei denn, dies ist durch anwendbares Recht vorgeschrieben oder es gelten die Regelungen zum Widerrufsrecht wie oben beschrieben) und wird jeweils automatisch für ein Jahr erneuert, bis Sie das Abonnement kündigen. Ihr Konto wird nicht mehr als 24 Stunden vor dem Ablauf der laufenden Abonnement-Periode belastet. Sie können die automatische Erneuerung kündigen, indem Sie die Einstellungen des iTunes Store Konto auf Ihrem Computer anpassen. Nach Ablauf Ihrer Abonnement-Periode werden Sie nicht mehr auf Ihre iTunes Match Inhalte über iTunes Match zugreifen können.
+
+iTunes Match arbeitet mit Bibliotheken, die bis zu 25,000 Songs enthalten, die entweder (i) derzeit nicht auf iTunes Service verfügbar sind oder (ii) im iTunes Service mit Ihrem Konto nicht gekauft wurden. Songs, die bestimmte Anforderungen nicht erfüllen oder die nicht für Ihren Computer autorisiert wurden, sind für iTunes Match nicht geeignet.
+
+iTunes Match wird die Songdateien automatisch durchsuchen und andere Informationen sammeln, die gebraucht werden können, um die in Ihrer iTunes Bibliothek vorhandenen Datenträger zu identifizieren, wie Namen, Interpreten oder Dauer der Songs. iTunes Match wird diese Informationen verwenden, um die Songs mit den derzeit im iTunes Store vorhandenen Songs abzugleichen, und wird die abgeglichenen Songs in einem im iTunes Store vorhandenen Format für Sie zur Verfügung stellen. Wenn der Song nicht erfolgreich abgeglichen wurde, wird Ihre Kopie des Songs im gleichen oder in einem von iTunes bestimmten Format in iTunes heraufgeladen. iTunes behält sich das Recht vor, die Art der heraufgeladenen Inhalte einzuschränken (beispielsweise übermäßig grosse Dateien). Auf abgeglichene oder heraufgeladene Songs oder zugehörige Metadaten kann mit Verbundenen Geräten, die für iTunes Match freigegeben wurden, zugegriffen werden. Die Verbindung von Verbundenen Geräten für iTunes Match unterliegt den gleichen Bedingungen wie Automatische Lieferung und Automatisches Herunterladen bereits gekaufter Inhalte. Heraufgeladene oder abgeglichene Songs und zugehörige Informationen gelten als „Infrage kommende iTunes Inhalte“. Sie können auf die iTunes Match Inhalte mit kompatiblen Apple TVs zugreifen, vorausgesetzt, Sie tun dies nur über eine beschränkte Anzahl von Apple TVs gleichzeitig.
+
+Wenn Sie iTunes Match benutzen, wird Genius beginnen, die Informationen über die Datenträger in Ihrer iTunes Bibliothek mit Ihrem Konto zu verbinden. Die Verbindung mit Ihrem Konto wird eine Zeit lang nach der Beendigung Ihres Abonnements andauern. iTunes wird diese Informationen des Weiteren, wie in den Datenschutzbestimmungen dieses Vertrages beschrieben, benutzen. Sie werden nicht in der Lage sein, Genius zu deaktivieren während Sie iTunes Match benutzen. Wenn Sie es vorziehen, dass wir die Informationen aus Ihrer iTunes Bibliothek auf diese Art nicht ermitteln, verarbeiten und nutzen, sollten Sie iTunes Match nicht benutzen.
+
+Sie erklären sich hiermit einverstanden, iTunes Match nur für rechtmäßig erworbene Inhalte zu gebrauchen. Jeglicher Gebrauch für unrechtmäßige Inhalte verletzt die Rechte anderer und kann Sie zivilrechtlichen und strafrechtlichen Strafen aussetzen, einschließlich möglichen Schadenersatz für Urheberrechtsverletzungen.
+
+iTunes Match wird auf einer „wie gesehen“-Grundlage zur Verfügung gestellt und kann Fehler oder Ungenauigkeiten enthalten, die Defekte, Verfälschung oder den Verlust von Daten und/oder Informationen auf Ihrem Computer oder Gerät und auf mit diesen verbundenen Peripheriegeräten (einschließlich Servern oder anderen Computern) verursachen können, einschließlich Musik, Playlists und Playhistory. Sie sollten eine Sicherungskopie von allen Daten und Informationen auf Ihrem Computer oder Gerät und jedem Peripheriegerät erstellen, bevor Sie iTunes Match benutzen. Sie erkennen ausdrücklich an und erklären sich damit einverstanden, dass Sie alleine jedes Risiko für jeglichen Gebrauch von iTunes Match tragen. Soweit gesetzlich zulässig, haftet iTunes nicht im Zusammenhang mit Ihrem Gebrauch von iTunes Match, einschließlich der Unmöglichkeit auf abgeglichene oder heraufgeladene Inhalte zuzugreifen.
+
+DATENSCHUTZ
+
+Der Dienst unterliegt der Apple Datenschutzrichtlinie, abrufbar unter http://www.apple.com/at/privacy/.
+
+Wenn Sie die Genius Funktion wählen, wird Apple von Zeit zu Zeit automatisch Informationen sammeln, die genutzt werden können, um Medien in Ihrer iTunes Bibliothek auf Geräten mit Genius-Funktion zu identifizieren, zum Beispiel Informationen zu Ihrem Abspielverhalten und zu Ihren Playlisten. Dies betrifft sowohl Medien, die über iTunes gekauft oder erworben wurden, als auch Medien, die Sie anderweitig erworben haben. Diese Informationen werden in anonymer Form gespeichert und nicht mit Ihrem Namen oder Ihrem Konto in Verbindung gebracht. Wenn Sie die Genius Funktion nutzen, wird Apple diese Informationen und die Inhalte Ihrer iTunes Bibliothek sowie andere Informationen verwenden, um Ihnen auf Sie zugeschnittene Empfehlungen geben zu können.
+
+Apple wird diese Informationen nur verwenden und mit anderen aggregierten Informationen aus den iTunes Bibliotheken von anderen Nutzern, die auch diese Funktion gewählt haben, mit Informationen zu Ihren bisherigen Einkäufen über den iTunes Store, mit aggregierten Informationen zu den bisherigen Einkäufen von anderen iTunes Store Nutzern und mit weiteren Informationen, die von Dritten zur Verfügung gestellt wurden, kombinieren, um hiermit:
+
+• Für Sie individuell gestaltete Playlisten aus Ihrer iTunes Bibliothek zu erstellen.
+
+• Ihnen Empfehlungen zu Medien und anderen Produkten und Diensten zu geben, die Sie vielleicht gerne kaufen oder erwerben möchten.
+
+• Anderen Nutzern Empfehlungen zu Produkten und Diensten zu geben.
+
+Ihre Informationen werden stets im Einklang mit der Apple Datenschutzrichtlinie behandelt.
+
+Wenn Sie die Genius Funktion gewählt haben, können Sie Genius Playlisten auf Geräten, die Genius-fähig sind, erstellen.
+
+Wenn Sie nicht wollen, dass wir Informationen aus Ihrer iTunes Bibliothek auf diese Weise sammeln und nutzen, dürfen Sie die Genius Funktion nicht aktivieren. Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie die Genius Funktion abschalten, und zwar im Menü des iTunes Stores auf Ihrem Computer, oder indem Sie die Genius-Funktion in den Einstellungen Ihres Gerätes abschalten. Nachdem Sie die Funktion abgeschaltet haben, wird iTunes nicht länger Informationen über Ihre iTunes Bibliothek an Apple schicken. Wenn Sie die Einstellung gewählt haben, dass Ihre Bibliothek von mehreren Geräten genutzt werden kann, müssen Sie die Genius Funktion auf jedem Gerät abschalten.
+
+Wenn Sie die Genius Funktion wählen, erklären Sie sich mit der Ermittlung, Verarbeitung und Nutzung Ihrer Informationen, wie oben und in Apples Datenschutzrichtlinie beschrieben, einverstanden.
+
+VERFÜGBARKEIT DER INHALTE
+
+iTunes behält sich das Recht vor, ohne Benachrichtigung Optionen zu Inhalten zu ändern (einschließlich der Auswahl von bestimmten Funktionen).
+
+NUTZUNG VON INHALTEN
+
+Sie sind damit einverstanden, dass Ihnen die iTunes Produkte nur über eine Lizenz zur Verfügung gestellt werden. Sie wissen, dass der Dienst und bestimmte iTunes Produkte eine Sicherungstechnik beinhalten, die digitale Informationen schützt und die die Nutzung der iTunes Produkte entsprechend bestimmten von iTunes und seinen Lizenzgebern aufgestellten Nutzungsregeln beschränkt ("Sicherungstechnik"). Unabhängig davon, ob iTunes Produkte durch die Sicherungstechnik eingeschränkt sind oder nicht, sind Sie verpflichtet, die iTunes Produkte nur entsprechend den anwendbaren, von iTunes und seinen Lizenzgebern aufgestellten Nutzungsregeln ("Nutzungsregeln") zu nutzen. Jede sonstige Nutzung der iTunes Produkte kann eine Verletzung von Urheberrechten darstellen. Jede Sicherungstechnik ist ein untrennbarer Teil der iTunes Produkte. iTunes behält sich das Recht vor, jederzeit die Nutzungsregeln für zukünftige Einkäufe von dem Dienst zu ändern. Diese Änderungen finden jedoch keine Anwendung auf iTunes Produkte, die Sie bereits erworben haben. Jede Änderung der Nutzungsregeln wird Ihnen mitgeteilt. Wenn Sie mit den neuen Nutzungsregeln nicht einverstanden sind, werden Sie zukünftig keine weiteren iTunes Produkte von dem Dienst erwerben können.
+
+NUTZUNGSREGELN
+
+(i) Sie sind berechtigt, die iTunes Produkte nur für den privaten, nicht-gewerblichen Gebrauch zu nutzen. Nähere Angaben zu Ihren Rechten und zu Beschränkungen Ihrer Rechte bezüglich der Nutzung der iTunes Produkte finden Sie hier:
+
+• http://www.prsformusic.com
+• http://www.warnerchappell.com
+• http://www.sacem.fr
+• http://www.sdrm.fr
+• http://www.sesam.org
+• http://www.aume.at
+• http://www.akm.co.at
+
+(ii) Sie dürfen die iTunes Produkte auf fünf Computern mit installierter iTunes Anwendung gleichzeitig nutzen; dies gilt jedoch nicht bei Filmleihen (siehe unten).
+
+(iii) Sie können iTunes Produkte von bis zu fünf verschiedenen Konten gleichzeitig auf kompatiblen Geräten, wie zum Beispiel iPad, iPod, iPhone und Apple TV unter der Bedingung speichern, dass jedes iPhone iTunes-Ton-Produkte nur mit einem einzigen iTunes-autorisierten Gerät auf einmal synchronisieren kann und dass das Synchronisieren eines iPhones mit einem anderen iTunes-autorisierten Gerät dazu führen wird, dass die auf diesem iPhone gespeicherten iTunes-Ton-Produkte gelöscht werden.
+
+(iv) Sie dürfen eine Audio-Playliste bis zu sieben Mal brennen. Sie dürfen die Audio-CD, auf die Sie Ihre iTunes Produkte gebrannt haben, genauso nutzen wie Sie eine aus einem normalen Einzelhandelsgeschäft erworbene Audio-CD entsprechend dem österreichischen Urheberrechtsgesetz nutzen dürfen.
+
+(v) Sie sind nur berechtigt, iTunes Video Produkte oder iTunes-Ton-Produkte zu Backup-Zwecken zu brennen. Das Backup eines iTunes Video Produktes kann über die iTunes Anwendung abgespielt werden.
+
+(vi) iTunes Plus Produkte enthalten keine Sicherungstechnik, die die Nutzung solcher iTunes Produkte beschränkt; Nutzungsregeln (ii) bis (v) finden keine Anwendung auf iTunes Plus Produkte. Sie können iTunes Plus Produkte kopieren, speichern und brennen, soweit es vernünftigerweise für den privaten, nicht-gewerblichen Gebrauch erforderlich ist.
+
+(vii) Sie können einen Film manuell von mindestens einem iTunes-autorisierten Gerät mit solchen Geräten synchronisieren, die einen manuellen Synchronisierungs-Modus haben, vorausgesetzt, dass der Film auf dem primären iTunes-autorisierten Gerät mit einem Konto verbunden ist. Das primäre iTunes-autorisierte Gerät in diesem Sinne ist das Gerät, das zuerst mit dem Gerät synchronisiert wurde oder das Sie später mittels der iTunes Anwendung als primäres Gerät bestimmt haben.
+
+(viii) Eine HDCP-Verbindung ist für das Anschauen von Filmen erforderlich, die über HDMI übermittelt werden.
+
+(ix) Filmleihe
+
+(a) Geliehene Filme können immer nur auf einem Gerät angeschaut werden. Sie müssen mit dem Dienst verbunden sein, um geliehene Filme von einem Gerät auf ein anderes zu verschieben und dies ist auch nur zwischen Ihrem Computer und anderen kompatiblen Geräten möglich. Filme, die über Apple TV oder iPad, iPhone 4 oder iPod touch ausgeliehen wurden, können nicht verschoben werden. Wenn Sie einen Film auf ein kompatibles Gerät verschieben und Sie dann die Funktion zur Wiederherstellung des Gerätes nutzen oder Sie auf dem Gerät Einstellungen > Wiederherstellen > Löschen aller Inhalte und Einstellungen wählen, wird der Film dauerhaft gelöscht.
+
+(b) Wenn Sie einen Film leihen, müssen Sie diesen innerhalb von dreißig (30) Tagen vollständig herunterladen. Sie haben dreißig (30) Tage nach dem Download des Films Zeit, um mit dem Anschauen des Films zu beginnen. Wenn Sie einmal mit dem Anschauen des Films begonnen haben, haben Sie achtundvierzig (48) Stunden Zeit, um den Film zu Ende anzuschauen. Stoppen, Pausieren oder Neustarten des Films bewirkt keine Verlängerung der noch zur Verfügung stehenden Zeitspanne, um den Film anzuschauen.
+
+Einige iTunes Produkte einschließlich der Filmleihe können nur einmal heruntergeladen werden und können nicht ersetzt werden, wenn sie aus irgendeinem Grund verloren gehen. Sie sind dafür verantwortlich, dass iTunes Produkte nach dem Download nicht verloren gehen, zerstört oder beschädigt werden und dass diese außerdem gesichert werden.
+
+Die Lieferung der iTunes Produkte gewährt Ihnen keine Rechte für eine Nutzung der iTunes Produkte für gewerbliche oder für Werbezwecke. Alle Möglichkeiten zum Brennen oder Exportieren sind nur ein Entgegenkommen unsererseits und begründen keine Einräumung von, keinen Verzicht auf oder keine sonstige Beschränkung der Rechte des Urhebers von urheberrechtlich geschützten Werken, die Teil des iTunes Produktes sind.
+
+Sie erkennen an, dass einige Aspekte des Dienstes und der iTunes Produkte und die Verwaltung der Nutzungsregeln die fortlaufende Einbindung von iTunes erfordert.
+
+SICHERUNG DES INHALTS
+
+Sie sind verpflichtet, die Sicherungstechnik sowie Elemente der Sicherungstechnik nicht zu verletzen, zu umgehen, zurückzuentwickeln, zu dekompilieren, auseinanderzunehmen oder in sonstiger Weise unerlaubte Änderungen daran vorzunehmen - oder dieses zu versuchen oder anderen dabei zu helfen. Unbeschadet anderer Bestimmungen dürfen Sie iTunes Audio-Produkte auf CD brennen, jedoch unter Beachtung der in den Nutzungsregeln enthaltenen Beschränkungen. Die Nutzungsregeln können von iTunes überprüft und überwacht werden, um deren Einhaltung sicherzustellen. iTunes behält sich das Recht vor, die Nutzungsregeln ohne vorherige Ankündigung durchzusetzen.
+
+SICHERUNG DES DIENSTES
+
+Sie sind verpflichtet, auf den Dienst nur durch die Nutzung von Software, die von Apple Inc. oder eines mit Apple verbundenen Unternehmens ("Apple") für den Zugriff auf den Dienst zur Verfügung gestellt wurde, zuzugreifen. Sie sind verpflichtet, die Software, die von Apple für den Zugriff auf den Dienst zur Verfügung gestellt wurde, nicht zu verändern oder veränderte Versionen der Software zu verwenden, egal für welchen Zweck, insbesondere nicht, um unbefugt auf den Dienst zuzugreifen. Sie dürfen auf ein Konto, für das Sie keine Zugriffsberechtigung haben, nicht zugreifen oder versuchen darauf zuzugreifen. Die Verletzung von System- oder Netzwerksicherungen kann zu einer zivil- oder strafrechtlichen Haftung führen.
+
+HIGH-DEFINITION (HD) PRODUKTE
+
+HD-Produkte können nur auf Geräten mit HD Unterstützung angeschaut werden; HD Produkte, die gekauft werden (nicht nur gemietet), enthalten aber auch eine Standardversion für den Gebrauch auf Geräten ohne HD Unterstützung.
+
+BEITRÄGE ZUM DIENST
+
+Der Dienst kann auch interaktive Funktionen anbieten, die es Ihnen ermöglichen, Materialien (einschließlich Links zu Inhalten von Dritten) auf Bereichen des Dienstes bereitzustellen, die von der Öffentlichkeit zugänglich und einsehbar sind. Sie willigen ein, dass jede Nutzung solcher Funktionen durch Sie, einschließlich der Bereitstellung von Materialien durch Sie, einzig Ihrer Verantwortung unterliegt, die Rechte von Dritten oder anwendbare Gesetze nicht verletzen darf, nicht zu Rechtsverletzungen beitragen oder dazu ermutigen darf oder sonst wie zu unrechtmäßigem Verhalten beitragen oder ermutigen darf oder obszön sein darf. Sie sind verpflichtet, alle erforderlichen Rechte und Lizenzen einzuholen und nur richtige und vollständige Informationen im Zusammenhang mit der Bereitstellung von Materialien auf dem Dienst zur Verfügung zu stellen. Sie räumen iTunes hiermit eine örtlich und zeitlich unbeschränkte, kostenlose und einfache Lizenz ein, solche Materialien als Teil des Dienstes und im Zusammenhang mit den iTunes Produkten zu nutzen, ohne Gegenleistung oder Verpflichtungen Ihnen gegenüber. iTunes behält sich das Recht vor, jederzeit nach seinem eigenen Ermessen und ohne Benachrichtigung und Haftung Ihnen gegenüber Materialien nicht einzustellen oder zu veröffentlichen und Materialien zu entfernen oder zu verändern.
+
+iTunes hat das Recht, aber nicht die Pflicht, Materialien, die von Ihnen bereitgestellt wurden oder in sonstiger Weise auf dem Dienst zur Verfügung gestellt wurden, zu überwachen, etwaigen gemeldeten oder offensichtlichen Verletzungen dieser Vereinbarung nachzugehen und Maßnahmen zu ergreifen, die iTunes nach eigenem Ermessen für angemessen hält, einschließlich der Kündigung nach dieser Vereinbarung oder nach der Apple Copyright Richtlinie (http://www.apple.com/legal/copyright.html).
+
+MATERIALIEN VON DRITTEN
+
+Bestimmte Inhalte, iTunes Produkte und Dienstleistungen, die über den Dienst verfügbar sind, können Materialien von Dritten beinhalten. iTunes kann Links zu Webseiten von Dritten als eine Gefälligkeit zur Verfügung stellen. iTunes ist nicht verantwortlich für die Untersuchung oder Bewertung der Inhalte oder der Richtigkeit; iTunes garantiert nicht, haftet nicht und ist nicht verantwortlich für die Materialien oder Webseiten von Dritten oder für sonstige Materialien, Produkte oder Dienstleistungen von Dritten. Sie dürfen Materialien von Dritten nicht in einer Art und Weise nutzen, die die Rechte von sonstigen Dritten verletzt. iTunes ist für eine solche unrechtmäßige Nutzung durch Sie auch sonst nicht verantwortlich.
+
+ANSTÖSSIGE MATERIALIEN
+
+Ihnen ist bewusst, dass Sie im Zusammenhang mit der Nutzung des Dienstes auf Materialien stoßen können, die Sie als beleidigend, unanständig oder anstößig empfinden, und dass diese Inhalte unter Umständen nicht als anstößiges Material gekennzeichnet wurden. Nichtsdestotrotz sind Sie damit einverstanden, dass die Nutzung des Dienstes Ihr eigenes Risiko ist; iTunes haftet nicht für Materialien, die Sie als beleidigend, unanständig oder anstößig empfinden. Produkttypen und Beschreibungen werden nur als Gefälligkeit zur Verfügung gestellt und Sie wissen, dass iTunes deren Richtigkeit nicht garantiert.
+
+GEISTIGES EIGENTUM
+
+Der Dienst, einschließlich der iTunes Produkte, Grafiken, Benutzeroberflächen, Audio-Clips, Video-Clips, redaktionelle Inhalte sowie die Skripte und Software, die zur Implementierung des Dienstes genutzt werden, enthält geschützte Inhalte und Materialien, die iTunes und/oder seinen Lizenzgebern zustehen und die von den anwendbaren Gesetzen zum Schutz des geistigen Eigentums (einschließlich des Urheberrechtsgesetzes) und anderen Gesetzen geschützt werden. Sie sind nicht berechtigt, solche geschützten Inhalte oder Materialien auf irgendeine Weise zu nutzen, außer im Rahmen der Nutzung des Dienstes entsprechend dieser Vereinbarung. Kein Teil des Dienstes darf in irgendeiner Form oder mit irgendwelchen Mitteln vervielfältigt werden, es sei denn, es ist ausdrücklich in diesen Bedingungen erlaubt. Sie dürfen den Dienst nicht bearbeiten, vermieten, verleihen, verkaufen, verbreiten oder auf dem Dienst beruhende abgeleitete Werke erstellen und Sie dürfen den Dienst nicht in unzulässiger Weise verwerten, insbesondere nicht durch das Eindringen in oder durch die Belastung von Netzwerkkapazitäten.
+
+Unbeschadet anderer Bestimmungen in dieser Vereinbarung behalten iTunes und seine Lizenzgeber sich das Recht vor, die iTunes Produkte, Inhalte oder anderen Materialien, die über den Dienst angeboten werden, ohne vorherige Ankündigung zu ändern, vorübergehend zu unterbrechen, zu entfernen oder den Zugang hierzu zu deaktivieren. In keinem Fall haftet iTunes für diese Änderungen. iTunes kann außerdem Beschränkungen für die Nutzung von und den Zugang zu bestimmten Funktionen oder Teilen des Dienstes auferlegen, ohne Grund und ohne Benachrichtigung oder Haftung. Die Entfernung von Inhalten aus dem Dienst hat keine Auswirkungen auf Produkte, die Sie bereits von dem Dienst erworben haben.
+
+iTunes und seinen Lizenzgebern steht das Urheberrecht an dem Dienst zu, einschließlich des Rechts zur Zusammenstellung von Inhalten, von Beiträgen, von Links auf andere Internetquellen und von Beschreibungen von diesen Quellen. Die Nutzung von jeglichen Teilen des Dienstes, außer die Nutzung des Dienstes wie sie hierin erlaubt ist, ist strengstens verboten und verletzt die Immaterialgüterrechte von anderen und kann für Sie zu zivil- oder strafrechtlichen Folgen, einschließlich etwaiger Verpflichtungen zur Zahlung von Schadenersatz wegen Verletzung von Urheberrechten führen.
+
+Apple, das Apple Logo, iTunes und andere Apple-Marken, Dienstleistungsmarken, Grafiken und Logos, die im Zusammenhang mit dem Dienst genutzt werden, sind Marken oder registrierte Marken von Apple Inc. in den USA und/oder in anderen Ländern. Andere Marken, Dienstleistungsmarken, Grafiken und Logos, die im Zusammenhang mit dem Dienst genutzt werden, können die Marken von anderen Rechteinhabern sein. Ihnen werden keine Rechte und keine Lizenzen bezüglich der vorgenannten Marken und deren Nutzung eingeräumt.
+
+Als Inhaber eines Kontos bei dem Dienst kann es Ihnen möglich sein, in begrenztem Umfang gewisse Albumcover für Ihre Musik, die in der iTunes Bibliothek auf Ihrer iTunes Anwendung gespeichert ist, herunterzuladen. Dies wird Ihnen jedoch nur als Gefälligkeit angeboten; iTunes macht keine Zusicherungen, hat keine Haftung und auch keine Verantwortung für diese Albumcover oder für Ihre Nutzung von diesen. Albumcover werden nur für den privaten, nicht-gewerblichen Gebrauch zur Verfügung gestellt. Sie dürfen die Albumcover nicht in einer Weise nutzen, die diese Vereinbarung oder die Rechte von anderen verletzen würde. iTunes haftet nicht für Ihre rechtswidrige Nutzung der Albumcover.
+
+KÜNDIGUNG
+
+Wenn Sie eine Bestimmung dieser Vereinbarung verletzen oder wenn iTunes berechtigten Grund hat, zu glauben, dass Sie eine Bestimmung dieser Vereinbarung verletzen, kann iTunes nach eigenem Ermessen und ohne Benachrichtigung an Sie: (i) diese Vereinbarung und/oder Ihr Konto kündigen und Sie werden für noch ausstehende Beträge, die bis zum Tag der Kündigung auf Ihrem Konto fällig geworden sind, haften; und/oder (ii) dafür sorgen, dass die Lizenz für die Software gekündigt wird; und/oder (iii) den Zugriff auf den Dienst (oder einem Teil davon) verhindern.
+
+iTunes behält sich das Recht vor, den Dienst (oder Teile oder Inhalte davon) jederzeit zu verändern, vorübergehend auszusetzen oder zu unterbrechen, und iTunes haftet Ihnen oder Dritten gegenüber nicht, wenn iTunes von diesem Recht Gebrauch macht. Soweit möglich wird iTunes Sie bei Veränderungen, Aussetzungen oder Unterbrechungen vorwarnen. Die Beendigung des Dienstes hat keine Auswirkungen auf iTunes Produkte, die Sie bereits gekauft haben. Aber es könnte möglich sein, dass Sie keinen weiteren Computern die Nutzung der iTunes Produkte gestatten können.
+
+GEWÄHRLEISTUNGSAUSSCHLUSS; HAFTUNGSBESCHRÄNKUNGEN
+
+a. iTunes wird den Dienst mit angemessener Sorgfalt erbringen. iTunes gibt keine sonstigen Versprechen oder Zusicherungen im Hinblick auf den Dienst und gewährleistet insbesondere nicht, dass:
+
+(i) Ihre Nutzung des Dienstes ohne Unterbrechungen oder fehlerfrei sein wird. Sie erklären sich damit einverstanden, dass iTunes gegebenenfalls den Dienst für eine unbestimmte Zeit einstellen oder den Dienst jederzeit aus technischen oder operativen Gründen beenden kann und Sie, soweit möglich, hierüber unterrichten wird;
+
+(ii) der Dienst frei von Verlusten, Korruption, Angriffen, Viren, Eingriffen, Hacking oder anderen sicherheitsrelevanten Störungen sein wird, die als Fälle Höherer Gewalt gelten werden. iTunes schließt jegliche Haftung in diesem Zusammenhang aus. Für den Backup Ihres Systems sind Sie verantwortlich, inklusive des Backups sämtlicher iTunes Produkte, welche vom Dienst gekauft, erworben oder gemietet wurden.
+
+b. Soweit nicht unten (d) eingreift oder Sie die Ihnen durch die anwendbaren Gesetze zustehenden Rechte zur Kaufpreisrückerstattung oder zum Schadenersatz ausüben, ist iTunes, seine Direktoren, Manager, Arbeitnehmer, verbundenen Unternehmen, Bevollmächtigten, Auftragnehmer oder Lizenzgeber keinesfalls für Verluste oder Schäden haftbar, die durch iTunes, seine Arbeitnehmer oder Bevollmächtigten verursacht wurden, wenn:
+
+(i) keine rechtliche Sorgfaltspflicht verletzt wurde, die iTunes oder ein Arbeitnehmer oder Bevollmächtigter von iTunes Ihnen schuldet;
+
+(ii) es sich nicht um eine vernünftigerweise vorhersehbare Folge einer solchen Verletzung handelt;
+
+(iii) eine etwaige Steigerung des Verlustes oder Schadens auf einer Verletzung einer Bestimmung dieser Vereinbarung durch Sie beruht;
+
+(iv) es auf eine Entscheidung von iTunes zurückzuführen ist, Informationen oder Inhalte zu entfernen oder die Verarbeitung von Informationen oder Inhalten zu verweigern, Sie zu warnen, Ihren Zugriff auf den Dienst zu unterbinden oder zu beenden oder andere Maßnahmen während der Untersuchung von vermuteten Verletzungen zu ergreifen oder als Folge dessen, dass iTunes zum Schluss kommt, dass eine Verletzung dieser Vereinbarung erfolgt ist; oder
+
+(v) es im Zusammenhang steht mit Einkommensverlust, Verlust von Geschäften oder entgangenem Gewinn oder mit Verlust oder Verfälschung von Daten im Zusammenhang mit Ihrer Nutzung des Dienstes.
+
+c. iTunes wird nach bestem Wissen und Gewissen die Informationen, die von Ihnen im Zusammenhang mit dem Dienst bereitgestellt werden, schützen, insbesondere vor einer Nutzung mit betrügerischen Absichten.
+
+d. Nichts in dieser Vereinbarung soll die Haftung von iTunes wegen grober Fahrlässigkeit, vorsätzlichen Verhaltens, Betrugs, oder für Tod oder Körperverletzung ausschließen oder begrenzen.
+
+e. Wenn Sie diese Vereinbarung verletzen, sind Sie iTunes, seinen Direktoren, Managern, Arbeitnehmern, verbundenen Unternehmen, Bevollmächtigten, Auftragnehmern und Lizenzgebern für jeden Anspruch, der aus Ihrer Verletzung herrührt, haftbar. Sie sind außerdem für alle Maßnahmen, die von iTunes als Teil der Untersuchung einer vermuteten Verletzung dieser Vereinbarung oder als Folge der Untersuchungsergebnisse oder der Entscheidung, dass eine Verletzung dieser Vereinbarung stattgefunden hat, ergriffen werden, verantwortlich.
+
+ÄNDERUNGEN
+
+iTunes behält sich das Recht vor, jederzeit diese Vereinbarung zu ändern und Ihre Nutzung des Dienstes neuen oder weiteren Vertragsbedingungen zu unterwerfen. Solche Änderungen und weitere Vertragsbedingungen werden Ihnen mitgeteilt, erlangen unverzüglich Wirkung, sobald sie akzeptiert wurden, und sind sodann in diese Vereinbarung integriert. Für den Fall, dass Sie die Änderungen nicht akzeptieren, kann iTunes diese Vereinbarung mit Ihnen kündigen.
+
+VERSCHIEDENES
+
+Diese Vereinbarung stellt den gesamten Vertrag zwischen Ihnen und iTunes dar und regelt Ihre Nutzung des Dienstes. Diese Vereinbarung ersetzt etwaige frühere Vereinbarungen zwischen Ihnen und iTunes. Gegebenenfalls unterliegen Sie auch weiteren Nutzungsbedingungen, die zur Anwendung kommen, wenn Sie hiermit verbundene Dienste, bestimmte iTunes-Produkte, Inhalte von Dritten oder Software von Dritten nutzen. Falls eine Bestimmung dieser Vereinbarung unwirksam oder nicht durchsetzbar ist, soll diese Bestimmung so ausgelegt werden, dass die Bestimmung mit dem anwendbaren Recht vereinbar ist und den ursprünglichen Absichten der Parteien bestmöglich entspricht. Der übrige Teil der Bestimmung soll hiervon unberührt bleiben. iTunes' Unterlassen, ein Recht oder Bestimmungen aus dieser Vereinbarung durchzusetzen, begründet keinen Verzicht auf dieses Recht oder diese Bestimmung. iTunes ist nicht verantwortlich für die Nichterfüllung von Pflichten aus Gründen die iTunes nicht zuzurechnen sind.
+
+Der Dienst wird von iTunes von dessen Niederlassung in Luxemburg aus angeboten. Sie sind verpflichtet, alle lokalen, landesrechtlichen, bundesrechtlichen und nationalen Gesetze, Anordnungen und Verordnungen, die auf Ihre Nutzung des Dienstes Anwendung finden, zu befolgen. Diese Vereinbarung und die Nutzung des Dienstes unterliegen dem österreichischen Recht.
+
+iTunes kann Sie bezüglich des Dienstes per Email an die Email-Adresse zu Ihrem Konto oder per Brief an die Postanschrift zu Ihrem Konto oder per Nachricht auf dem Dienst benachrichtigen. Die Benachrichtigung erlangt unmittelbare Wirkung.
+
+iTunes behält sich das Recht vor, Maßnahmen zu ergreifen, die iTunes für vernünftigerweise erforderlich oder angemessen hält, um diese Vereinbarung durchzusetzen und die Einhaltung dieser Vereinbarung sicherzustellen. Sie stimmen zu, dass iTunes das Recht hat, ohne Ihnen gegenüber zu haften, die Anmeldedaten und/oder Kontoinformationen an Strafverfolgungsbehörden, andere Behörden und/oder Dritte weiterzugeben, wenn iTunes der Meinung ist, dass dies vernünftigerweise erforderlich oder angemessen ist, um die Einhaltung der Bestimmungen dieser Vereinbarung durchzusetzen und/oder sicherzustellen (einschließlich iTunes' Recht, bei rechtlichen Verfahren, die mit Ihrer Nutzung der Dienste und/oder der iTunes Produkte im Zusammenhang stehen, und/oder bei Ansprüchen Dritter, dass Ihre Nutzung des Dienstes und/oder der iTunes Produkte unrechtmäßig ist und/oder Rechte von solchen Dritten verletzt, zu kooperieren).
+
+Über iTunes: Unsere Handelsregisternummer ist RCS Luxemburg B 101 120 und unsere Geschäftsadresse ist 31-33, rue Sainte Zithe, L-2763 Luxemburg.
+
+Adresse für Rückfragen und Dienstleistungen: iTunes Sarl, 31-33, rue Sainte Zithe, L-2763 Luxemburg.
+
+C. NUTZUNGSBEDINGUNGEN DES MAC APP STORES, DES APP STORES UND DES IBOOKS STORES
+
+DIESE VEREINBARUNG ZWISCHEN IHNEN UND iTUNES SARL ("ITUNES") REGELT IHRE NUTZUNG DES MAC APP STORES, DES APP STORES UND DES IBOOKS STORES ("STORES") UND DEN KAUF VON LIZENZEN ÜBER DIE STORES, DIE IHNEN ITUNES VERKAUFT.
+
+DER MAC APP STORE, DER APP STORE UND DER IBOOKS STORE
+
+iTunes ist der Anbieter der Stores, die es Ihnen ermöglichen, von iTunes Nutzungslizenzen für Softwareprodukte aus dem App Store und Mac App Store (zusammen “App Store Produkte“) und digitale Buchinhalte (die “iBooks Store Produkte") zu erwerben, jedoch nur zur Nutzung als Endnutzer und entsprechend den Nutzungsbedingungen, die in dieser Vereinbarung dargestellt werden. Endnutzer der App Store Produkte können für sich selbst handelnde Einzelpersonen sein, oder Unternehmen oder Bildungseinrichtungen. App Store Produkte und iBooks Store Produkte werden zusammen als “Produkte“ bezeichnet.
+
+VORAUSSETZUNGEN FÜR DIE NUTZUNG DER STORES
+
+Ausschließlich Personen, die 13 Jahre oder älter sind, können Konten erstellen. Konten für Personen unter 13 Jahren können von Eltern oder gesetzlichen Erziehungsberechtigten, die Family Sharing nutzen. Kinder, die unter 18 Jahre alt sind, sollten diese Vereinbarung mit ihren Eltern oder gesetzlichen Erziehungsberechtigten durchsehen und sichergehen, dassdas Kind und Ihre Eltern oder gesetzlichen Erziehungsberechtigten diese verstehen.
+
+Die Stores stehen Ihnen nur in Österreich zur Verfügung. Sie dürfen die Stores nicht von außerhalb Österreichs nutzen oder versuchen zu nutzen. iTunes kann mit Hilfe von technischen Mitteln die Einhaltung dieser Bestimmung überprüfen.
+
+Die Nutzung der Stores erfordert kompatible Geräte, Internetzugang und gewisse Software (hierdurch können weitere Gebühren anfallen). Zudem können regelmäßige Updates erforderlich sein. Die Nutzung der Stores kann von der Leistungsfähigkeit dieser Faktoren abhängen. Highspeed Internetzugang wird sehr empfohlen. Die aktuellen Versionen der erforderlichen Software (einschließlich der iTunes und Mac App Store Software) werden für den Zugriff auf die Stores empfohlen und können für bestimmte Einkäufe oder Funktionen und für das Herunterladen von Produkten erforderlich sein, welche zuvor von den Stores gekauft oder erworben wurden. Sie stimmen zu, dass diese Voraussetzungen, die sich von Zeit zu Zeit ändern können, in Ihrer Verantwortung liegen. Die Stores sind nicht Teil von anderen Produkten oder Angeboten. Der Kauf oder der Erhalt von anderen Produkten kann nicht als Zusage oder Zusicherung bezüglich des Zugriffs auf die Stores ausgelegt werden.
+
+IHR KONTO
+
+Als bei den Stores angemeldeter Nutzer können Sie ein Konto ("Konto") einrichten. Geben Sie Ihre Kontoinformationen nicht an Dritte weiter. Sie sind allein für die Aufrechterhaltung der Vertraulichkeit und Sicherheit Ihres Kontos und für alle Aktivitäten, die auf Ihrem oder über Ihr Konto stattfinden, verantwortlich. Sie sind verpflichtet, iTunes unverzüglich über etwaige Sicherheitsverstöße im Hinblick auf Ihr Konto zu benachrichtigen. iTunes ist nicht für Verluste verantwortlich, die durch eine unerlaubte Nutzung Ihres Kontos entstehen.
+
+Zur Transaktion über und dem Download von App Store Produkten in den Stores müssen Sie Ihre Apple ID und Ihr Passwort oder Touch ID verwenden. Nachdem Sie Ihr Konto mithilfe Ihrer Apple ID und Ihres Passwortes authentifiziert haben, ist eine erneute Authentifizierung auf Ihrem Computer oder iOS Gerät innerhalb der nächsten fünfzehn Minuten nicht mehr erforderlich. Sie können Ihrem Computer die Speicherung Ihres Passwortes erlauben, um authentifiziert zu bleiben. Innerhalb dieser Zeitspanne sind die Transaktion und das Herunterladen von App Store Produkten ohne erneute Passworteingabe möglich. Sie können die Möglichkeit zum Erwerb von App Store Produkten deaktivieren oder für jede Transaktion ein Passwort festlegen, indem Sie die Einstellungen Ihres Computers oder iOS Geräts ändern. Weitere Informationen finden Sie unter http://support.apple.com/kb/HT1904 und http://support.apple.com/kb/HT4213.
+
+Sie sind verpflichtet, richtige und vollständige Angaben zu machen, wenn Sie sich für die Stores anmelden und die Stores nutzen ("Anmeldedaten"). Sie sind verpflichtet, Ihre Anmeldedaten immer auf dem neusten Stand zu halten, damit sie richtig und vollständig sind. Sie willigen ein, dass iTunes Ihre angegebenen Anmeldedaten speichern und nutzen kann, um Ihnen das Konto zur Verfügung zu stellen und Ihnen Gebühren im Zusammenhang mit dem Konto in Rechnung zu stellen.
+
+AUTOMATISCHE LIEFERUNG UND DOWNLOAD VORANGEGANGENER KÄUFE
+
+Wenn Sie erstmalig Produkte (ausgenommen die im Mac App Store erworbenen Produkte) über die Stores erwerben (zusammen "Infrage kommender Inhalt"), haben Sie die Möglichkeit automatisch Kopien des Infrage kommenden Inhalts auf weiteren iTunes-autorisierten Computern und iOS Geräten mit kompatibler Software zu erhalten ("Auto-Download"), indem Sie die Computer und iOS Geräte unter Einhaltung der folgenden Bestimmungen verbinden (jeweils ein "Verbundenes Gerät"). Sie können für jedes Verbundene Gerät jeweils die Art des Infrage kommenden Inhalts, falls vorhanden, für den Auto-Download festlegen. Bei Verbundenen Geräten mit der Fähigkeit zum Empfang von Push-Benachrichtigungen (“Push-Fähig“), einschließlich der iOS Geräte, wird der Auto-Download automatisch vorgenommen, wenn das Verbunde Gerät mit dem Internet verbunden wird. Bei nicht Push-Fähigen Verbunden Geräten, einschließlich der Verbundenen Geräte mit dem Betriebssystem Windows, erscheint der Infrage kommende Inhalt automatisch in der Download-Warteschlange und Sie können den Download manuell in iTunes beginnen.
+
+Bestimmte Teile des bereits erworbenen Infrage kommenden Inhaltes können Sie als reine Gefälligkeit nach dem Erwerb auf Verbundene Geräte herunterladen. Nicht alle Infrage kommenden Inhalte, die Sie bereits erworben haben, stehen zu jeder Zeit zum nachträglichen Download zur Verfügung. iTunes übernimmt keine Haftung für den Fall, dass ein Infrage kommender Inhalt, der bereits vorher erworben wurde, für einen nachträglichen Download nicht mehr zur Verfügung steht. Da Ihnen der nachträgliche Download von bestimmtem bereits erworbenen Infrage kommenden Inhalt möglicherweise nicht mehr möglich ist, sobald ein Infrage kommender Inhalt heruntergeladen wurde, sind Sie dafür verantwortlich, dass der Infrage kommende Inhalt nicht verloren geht, nicht zerstört wird oder beschädigt wird. Außerdem sollten Sie den Infrage kommenden Inhalt sichern.
+
+Die Verbindung von Verbundenen Geräten unterliegt den folgenden Bestimmungen:
+
+(i) Sie sind zum Auto-Download von Infrage kommendem Inhalt oder Download von bereits erworbenem Infrage kommenden Inhalt von einem Konto auf bis zu 10 Verbunde Geräte berechtigt, von denen nicht mehr als 5 iTunes-autorisierte Computer sein dürfen.
+
+(ii) Ein Verbundenes Gerät darf jeweils nur mit einem Konto gleichzeitig verbunden sein.
+
+(iii) Sie dürfen ein Verbundenes Gerät nur einmal innerhalb eines Zeitraums von 90 Tagen auf ein anderes Konto wechseln.
+
+(iv) Bereits erworbene kostenlose Inhalte dürfen auf eine unbeschränkte Anzahl von Geräten heruntergeladen werden, solange die Inhalte in den Stores kostenlos angeboten werden, allerdings nicht auf mehr als 5 iTunes autorisierte Computer.
+
+Die vorstehenden Bedingungen (i) bis (iv) finden nicht auf App Store Produkte Anwendung.
+
+Teile der Infrage kommenden Inhalte haben möglicherweise ein großes Datenvolumen, so dass hohe Übertragungsgebühren für die Übermittlung der Infrage kommenden Inhalte über eine Datenverbindung anfallen können.
+
+AUTOMATISCHE LIEFERUNG VON UPDATES
+
+Ihr Gerät oder Computer sucht über den App Store und Mac App Store für die auf Ihrem Gerät oder Computer installierten Apps in regelmäßigen Abständen nach Updates und lädt diese gegebenenfalls herunter und installiert sie. Sie stimmen zu, dass Apple über den App Store und Mac App Store automatisch Updates herunterladen und auf Ihrem/n Gerät/en oder Computer installieren darf. Sie können alle automatischen Updates zu jeder Zeit deaktivieren, indem Sie die Einstellungen der automatischen Updates auf Ihrem Gerät oder Computer ändern.
+
+APP BUNDLES
+
+Manche App Store Produkte können mehrere Artikel enthalten („App Bundles“). Der mit einem App Bundle angezeigte Preis, ist der Preis, der Ihnen verrechnet wird, wenn Sie das App-Bundle erwerben. Der Preis des App Bundles kann sich aufgrund von bereits zuvor gekaufter oder erworbener App Store Produkte verringern. Es kann jedoch eine Mindestgebühr zur Vervollständigung des App Bundles enthalten sein.
+
+DATENSCHUTZ
+
+Soweit nichts Anderweitiges in dieser Vereinbarung geregelt ist, unterliegen die Stores der Apple Datenschutzrichtlinie, abrufbar über http://www.apple.com/at/privacy.
+
+NUTZUNG DER PRODUKTE UND DER STORES
+
+iTunes verkauft Ihnen eine Lizenz zur Nutzung der Produkte. Wenn Sie ein Produkt von iTunes gekauft haben, begründet die Lizenz eine bindende Vereinbarung unmittelbar zwischen Ihnen und dem Veröffentlicher des Produktes (der “Veröffentlicher“), die Ihre Nutzung dieses Produktes regelt. Sie wissen, dass die Stores und bestimmte Produkte eine Sicherungstechnik beinhalten, die die digitalen Informationen schützt und Ihre Nutzung der Produkte entsprechend gewisser Nutzungsregeln, die von iTunes und den Veröffentlichern aufgestellt wurden, beschränkt ("Sicherungstechnik"). Unabhängig davon, ob Produkte durch die Sicherungstechnik eingeschränkt sind oder nicht, sind Sie verpflichtet, die Produkte nur entsprechend der anwendbaren, von iTunes und den Veröffentlichern aufgestellten Nutzungsregeln ("Nutzungsregeln") zu nutzen. Jede sonstige Nutzung der Produkte kann eine Verletzung von Urheberrechten darstellen. Jede Sicherungstechnik ist ein untrennbarer Teil der Produkte. iTunes behält sich das Recht vor, jederzeit die Nutzungsregeln für zukünftige Einkäufe von den Stores zu ändern. Diese Änderungen finden jedoch keine Anwendung auf Produkte, die Sie bereits erworben haben. Jede Änderung der Nutzungsregeln wird Ihnen mitgeteilt. Wenn Sie mit den neuen Nutzungsregeln nicht einverstanden sind, werden Sie zukünftig keine weiteren Produkte aus den Stores erwerben können.
+
+SICHERUNG DES INHALTS
+
+Sie sind verpflichtet, die Sicherungstechnik sowie Elemente der Sicherungstechnik nicht zu verletzen, zu umgehen, zurückzuentwickeln, zu dekompilieren, auseinanderzunehmen oder in sonstiger Weise unerlaubte Änderungen daran vorzunehmen - oder dieses zu versuchen oder anderen dabei zu helfen. Die Nutzungsregeln können von iTunes überprüft und überwacht werden, um deren Einhaltung sicherzustellen. iTunes behält sich das Recht vor, die Nutzungsregeln ohne vorherige Ankündigung durchzusetzen.
+
+SICHERUNG DER STORES
+
+Sie sind verpflichtet, auf die Stores nur durch die Nutzung von Software, die von Apple Inc. oder eines mit Apple verbundenen Unternehmens ("Apple") für den Zugriff auf die Stores zur Verfügung gestellt wurde, zuzugreifen. Sie sind verpflichtet, die Software, die von Apple für den Zugriff auf die Stores zur Verfügung gestellt wurde, nicht zu verändern oder veränderte Versionen der Software nicht zu verwenden, egal für welchen Zweck, insbesondere nicht, um unbefugt auf die Stores zuzugreifen. Sie dürfen auf ein Konto, für das Sie keine Zugriffsberechtigung haben, nicht zugreifen oder versuchen darauf zuzugreifen. Die Verletzung von System- oder Netzwerksicherungen kann zu einer zivil- oder strafrechtlichen Haftung führen.
+
+Mit der Lieferung der Produkte werden Ihnen keine Rechte für eine Nutzung der Produkte zu Werbezwecken eingeräumt.
+
+Sie erkennen an, dass einige Aspekte der Stores und der Produkte und die Verwaltung der Nutzungsregeln die fortlaufende Einbindung von iTunes erfordert, unabhängig davon, dass iTunes nicht Partei der Lizenzvereinbarung zwischen Ihnen und den Veröffentlichern der Produkte ist.
+
+BEITRAGE ZU DEN STORES
+
+Die Stores können auch interaktive Funktionen anbieten, die es Ihnen ermöglichen, Materialien (einschließlich Links zu Inhalten von Dritten) auf Teilen der Stores bereitzustellen, die von der Öffentlichkeit zugänglich und einsehbar sind. Sie willigen ein, dass Ihre Nutzung dieser Funktion, einschließlich der Bereitstellung von Materialien durch Sie, Ihrer Verantwortung unterliegt, die Rechte von Dritten oder anwendbare Gesetze nicht verletzen darf, nicht zu Rechtsverletzungen beitragen oder dazu ermutigen darf oder in sonstiger Weise zu unrechtmäßigem Verhalten beitragen oder ermutigen darf oder obszön sein darf. Sie sind verpflichtet, alle erforderlichen Rechte und Lizenzen einzuholen und nur richtige und vollständige Informationen im Zusammenhang mit der Bereitstellung von Materialien auf den Stores zur Verfügung zu stellen. Sie räumen iTunes hiermit eine örtlich und zeitlich unbeschränkte, kostenlose und einfache Lizenz ein, solche Materialien als Teil der Stores und im Zusammenhang mit den Produkten zu nutzen, ohne Gegenleistung oder Verpflichtungen Ihnen gegenüber. iTunes behält sich das Recht vor, jederzeit nach seinem eigenen Ermessen und ohne Benachrichtigung und Haftung Ihnen gegenüber Materialien nicht einzustellen oder zu veröffentlichen und Materialien zu entfernen oder zu verändern. Sie sind nicht berechtigt, Kommentare oder Bewertungen für App Store Produkte, die Sie mit einem Werbe-Content Code heruntergeladen haben, abzugeben.
+
+iTunes hat das Recht, aber nicht die Pflicht, Materialien, die von Ihnen bereitgestellt wurden oder in sonstiger Weise in den Stores zur Verfügung gestellt wurden, zu überwachen, etwaig gemeldete oder offensichtliche Verletzung dieser Vereinbarung zu untersuchen, und Maßnahmen zu ergreifen, die iTunes nach eigenem Ermessen für angemessen hält, einschließlich Kündigung nach dieser Vereinbarung oder nach der Apple Copyright Richtlinie (http://www.apple.com/legal/copyright.html).
+
+MATERIALIEN VON DRITTEN
+
+Bestimmte Inhalte, Produkte und Dienstleistungen, die über die Stores verfügbar sind, können Materialien von Dritten beinhalten. iTunes kann Links zu Webseiten von Dritten als eine Gefälligkeit zur Verfügung stellen. iTunes ist nicht verantwortlich für die Untersuchung oder Bewertung der Inhalte oder der Richtigkeit; iTunes garantiert nicht, haftet nicht und ist nicht verantwortlich für die Materialien oder Webseiten von Dritten oder für sonstige Materialen, Produkte oder Dienstleistungen von Dritten. Sie dürfen Materialien von Dritten nicht in einer Art und Weise nutzen, die die Rechte von sonstigen Dritten verletzt. iTunes ist für eine solche unrechtmäßige Nutzung durch Sie auch sonst nicht verantwortlich.
+
+ANSTÖSSIGE MATERIALIEN
+
+Ihnen ist bewusst, dass Sie im Zusammenhang mit der Nutzung der Stores auf Materialien stoßen können, die Sie als beleidigend, unanständig oder anstößig empfinden, und dass diese Inhalte unter Umständen nicht als anstößiges Material gekennzeichnet wurden. Nichtsdestotrotz sind Sie damit einverstanden, dass die Nutzung der Stores Ihr eigenes Risiko ist und iTunes haftet nicht für Materialien, die Sie als beleidigend, unanständig oder anstößig empfinden. Produkttypen und Beschreibungen werden nur als Gefälligkeit zur Verfügung gestellt und Sie wissen, dass iTunes deren Richtigkeit nicht garantiert.
+
+GEISTIGES EIGENTUM
+
+Die Stores, einschließlich der Produkte, Grafiken, Benutzeroberflächen, Audio-Clips, redaktionelle Inhalte sowie die Skripte und Software, die zur Implementierung der Stores genutzt werden, enthalten geschützte Inhalte und Materialien, die iTunes und/oder den Veröffentlichern zustehen und die von den anwendbaren Gesetzen zum Schutz des geistigen Eigentums (einschließlich des Urheberrechtsgesetzes) und anderen Gesetzen geschützt werden. Sie sind nicht berechtigt, solche geschützten Inhalte oder Materialien auf irgendeine Weise zu nutzen, außer im Rahmen der Nutzung der Stores entsprechend dieser Vereinbarung. Kein Teil der Stores darf in irgendeiner Form oder mit irgendwelchen Mitteln vervielfältigt werden, es sei denn, es ist ausdrücklich in diesen Bedingungen erlaubt. Sie dürfen die Stores nicht bearbeiten, vermieten, verleihen, verkaufen, verbreiten oder auf den Stores beruhende abgeleitete Werke erstellen und Sie dürfen die Stores nicht in unzulässiger Weise verwerten, insbesondere nicht durch das Eindringen in oder durch die Belastung von Netzwerkkapazitäten.
+
+Unbeschadet anderer Bestimmungen in dieser Vereinbarung behalten iTunes und die Veröffentlicher sich das Recht vor, die Produkte, Inhalte oder Materialien, die über die Stores angeboten werden, ohne entsprechende Benachrichtigung zu ändern, vorübergehend zu unterbrechen, zu entfernen und den Zugang hierzu zu deaktivieren. In keinem Fall haftet iTunes für diese Änderungen. iTunes kann außerdem Beschränkungen für die Nutzung von und den Zugang zu bestimmten Funktionen oder Teilen der Stores auferlegen, ohne Grund und ohne Benachrichtigung oder Haftung. Die Entfernung von Inhalten aus den Stores hat keine Auswirkungen auf Produkte, die Sie bereits von den Stores erworben haben.
+
+iTunes und seinen Lizenzgebern steht das Urheberrecht an den Stores zu, einschließlich des Rechts zur Zusammenstellung von Inhalten, von Beiträgen, von Links auf andere Internetquellen und der Beschreibungen dieser Quellen. Die Nutzung von jeglichen Teilen der Stores, außer die Nutzung der Stores wie sie hierin erlaubt ist, ist strengstens verboten und verletzt die Immaterialgüterrechte von anderen und kann für Sie zu zivil- oder strafrechtlichen Folgen, einschließlich etwaiger Verpflichtungen zur Zahlung von Schadenersatz wegen Verletzung von Urheberrechten führen.
+
+Apple, das Apple Logo, iTunes, der App Store und andere Apple-Marken, Dienstleistungsmarken, Grafiken und Logos, die im Zusammenhang mit den Stores genutzt werden, sind Marken oder registrierte Marken von Apple Inc. in den USA und/oder in anderen Ländern. Andere Marken, Dienstleistungsmarken, Grafiken und Logos, die im Zusammenhang mit den Stores genutzt werden, können die Marken von anderen Rechteinhabern sein. Ihnen werden keine Rechte und keine Lizenzen bezüglich der vorgenannten Marken und deren Nutzung eingeräumt.
+
+KÜNDIGUNG
+
+Wenn Sie eine Bestimmung dieser Vereinbarung verletzen oder wenn iTunes berechtigten Grund hat, zu glauben, dass Sie eine Bestimmung dieser Vereinbarung verletzen, kann iTunes, nach eigenem Ermessen und ohne Benachrichtigung an Sie: (i) diese Vereinbarung und/oder Ihr Konto kündigen und Sie werden für noch ausstehende Beträge, die bis zum Tag der Kündigung auf Ihrem Konto fällig geworden sind, haften; und/oder (ii) dafür sorgen, dass die Lizenz für die Software gekündigt wird; und/oder (iii) den Zugang zu den Stores (oder einem Teil davon) zu verhindern.
+
+iTunes behält sich das Recht vor, die Stores (oder Teile oder Inhalte davon) jederzeit zu verändern, vorübergehend auszusetzen oder zu unterbrechen, und iTunes haftet Ihnen oder Dritten gegenüber nicht, wenn iTunes von diesem Recht Gebrauch macht. Soweit möglich wird iTunes Sie bei Veränderungen, Aussetzungen oder Unterbrechungen vorwarnen. Die Einstellung der Stores hat keine Auswirkung auf Produkte, die Sie bereits gekauft haben. Aber es könnte möglich sein, dass Sie keinen weiteren Computern die Nutzung der Produkte gestatten können.
+
+GEWÄHRLEISTUNGSAUSSCHLUSS; HAFTUNGSBESCHRÄNKUNG
+
+a. iTunes wird die Stores mit angemessener Sorgfalt anbieten. iTunes gibt keine sonstigen Versprechen oder Zusicherungen im Hinblick auf die Stores und gewährleistet insbesondere nicht, dass:
+
+(i) Ihre Nutzung der Stores ohne Unterbrechungen oder fehlerfrei sein wird. Sie erklären sich damit einverstanden, dass iTunes gegebenenfalls die Stores für eine unbestimmte Zeit einstellen oder die Stores jederzeit aus technischen oder operativen Gründen beenden kann und Sie, soweit möglich, hierüber unterrichten wird;
+
+(ii) die Stores frei von Verlusten, Korruption, Angriffen, Viren, Eingriffen, Hacking oder anderen sicherheitsrelevanten Störungen sein werden, die als Fälle Höherer Gewalt gelten werden. iTunes schließt jegliche Haftung in diesem Zusammenhang aus. Manche Produkte können nur einmal heruntergeladen werden und können nicht ersetzt werden, wenn sie aus irgendeinem Grund verloren gehen. Für den Backup Ihres Systems sind Sie verantwortlich, inklusive des Backups sämtlicher Produkte, welche von den Stores gekauft oder erworben wurden.
+
+b. Soweit nicht unten (d) eingreift oder Sie die Ihnen durch die anwendbaren Gesetze zustehenden Rechte zur Kaufpreisrückerstattung oder zum Schadenersatz ausüben, ist iTunes, seine Direktoren, Manager, Arbeitnehmer, verbundenen Unternehmen, Bevollmächtigten, Auftragnehmer oder Lizenzgeber keinesfalls für Verluste oder Schäden haftbar, die durch iTunes, seine Arbeitnehmer oder Bevollmächtigten verursacht wurden, wenn:
+
+(i) keine rechtliche Sorgfaltspflicht verletzt wurde, die iTunes oder ein Arbeitnehmer oder Bevollmächtigter von iTunes Ihnen schuldet;
+
+(ii) es sich nicht um eine vernünftigerweise vorhersehbare Folge einer solchen Verletzung handelt;
+
+(iii) eine etwaige Steigerung des Verlustes oder Schadens auf einer Verletzung einer Bestimmung dieser Vereinbarung durch Sie beruht;
+
+(iv) es auf eine Entscheidung von iTunes zurückzuführen ist, Informationen oder Inhalte zu entfernen oder die Verarbeitung von Informationen oder Inhalten zu verweigern, Sie zu warnen, Ihren Zugriff auf die Stores zu unterbinden oder zu beenden oder andere Maßnahmen während der Untersuchung von vermuteten Verletzungen zu ergreifen oder als Folge dessen, dass iTunes zum Schluss kommt, dass eine Verletzung dieser Vereinbarung erfolgt ist; oder
+
+(v) es im Zusammenhang steht mit Einkommensverlust, Verlust von Geschäften oder entgangenem Gewinn oder mit Verlust oder Verfälschung von Daten im Zusammenhang mit Ihrer Nutzung der Stores.
+
+c. iTunes wird nach bestem Wissen und Gewissen die Informationen, die von Ihnen im Zusammenhang mit den Stores bereitgestellt werden, schützen, insbesondere vor einer Nutzung mit betrügerischen Absichten.
+
+d. Nichts in dieser Vereinbarung soll die Haftung von iTunes wegen grober Fahrlässigkeit, vorsätzlichen Verhaltens, Betrugs, oder für Tod oder Körperverletzung ausschließen oder begrenzen.
+
+e. Wenn Sie diese Vereinbarung verletzen, sind Sie iTunes, seinen Direktoren, Managern, Arbeitnehmern, verbundenen Unternehmen, Bevollmächtigten, Auftragnehmern und Lizenzgebern für jeden Anspruch, der aus Ihrer Verletzung herrührt, haftbar. Sie sind außerdem für alle Maßnahmen, die von iTunes als Teil der Untersuchung einer vermuteten Verletzung dieser Vereinbarung oder als Folge der Untersuchungsergebnisse oder der Entscheidung, dass eine Verletzung dieser Vereinbarung stattgefunden hat, ergriffen werden, verantwortlich.
+
+ÄNDERUNGEN
+
+iTunes behält sich das Recht vor, jederzeit diese Vereinbarung zu ändern und Ihre Nutzung der Stores neuen oder weiteren Vertragsbedingungen zu unterwerfen. Solche Änderungen und weitere Vertragsbedingungen werden Ihnen mitgeteilt, erlangen unverzüglich Wirkung, sobald sie akzeptiert wurden, und sind sodann in diese Vereinbarung integriert. Für den Fall, dass Sie die Änderungen nicht akzeptieren, kann iTunes diese Vereinbarung mit Ihnen kündigen.
+
+VERSCHIEDENES
+
+Diese Vereinbarung stellt den gesamten Vertrag zwischen Ihnen und iTunes dar und regelt Ihre Nutzung der Stores. Diese Vereinbarung ersetzt etwaige frühere Vereinbarungen zwischen Ihnen und iTunes. Gegebenenfalls unterliegen Sie auch weiteren Nutzungsbedingungen, die zur Anwendung kommen, wenn Sie hiermit verbundene Dienste, bestimmte Produkte, Inhalte von Dritten oder Software von Dritten nutzen. Falls eine Bestimmung dieser Vereinbarung unwirksam oder nicht durchsetzbar ist, soll diese Bestimmung so ausgelegt werden, dass die Bestimmung mit dem anwendbaren Recht vereinbar ist und den ursprünglichen Absichten der Parteien bestmöglich entspricht. Der übrige Teil der Bestimmung soll hiervon unberührt bleiben. iTunes' Unterlassen, ein Recht oder Bestimmungen in dieser Vereinbarung durchzusetzen, begründet keinen Verzicht auf dieses Recht oder diese Bestimmung. iTunes ist nicht verantwortlich für die Nichterfüllung von Pflichten aus Gründen die iTunes nicht zuzurechnen sind.
+
+Die Stores werden von iTunes von dessen Niederlassung in Luxemburg aus angeboten. Sie sind verpflichtet, alle lokalen, landesrechtlichen, bundesrechtlichen und nationalen Gesetze, Anordnungen und Verordnungen, die auf Ihre Nutzung der Stores anzuwenden sind, zu befolgen. Diese Vereinbarung und die Nutzung der Stores unterliegen dem österreichischen Recht.
+
+iTunes kann Sie bezüglich der Stores per Email an die Email-Adresse zu Ihrem Konto oder per Brief an die Postanschrift zu Ihrem Konto oder per Nachricht über die Stores benachrichtigen. Die Benachrichtigung erlangt unmittelbare Wirkung.
+
+iTunes behält sich das Recht vor, Maßnahmen zu ergreifen, die iTunes für vernünftigerweise erforderlich oder angemessen hält, um diese Vereinbarung durchzusetzen und die Einhaltung dieser Vereinbarung sicherzustellen. Sie stimmen zu, dass iTunes das Recht hat, ohne Ihnen gegenüber zu haften , die Anmeldedaten und/oder Kontoinformationen an Strafverfolgungsbehörden, andere Behörden und/oder Dritte weiterzugeben, wenn iTunes der Meinung ist, dass dies vernünftigerweise erforderlich oder angemessen ist, um die Einhaltung der Bestimmungen dieser Vereinbarung durchzusetzen und/oder sicherzustellen (einschließlich iTunes' Recht, bei rechtlichen Verfahren, die mit Ihrer Nutzung der Stores und/oder der Produkte im Zusammenhang stehen, und/oder bei Ansprüchen Dritter, dass Ihre Nutzung der Stores und/oder der Produkte unrechtmäßig ist und/oder Rechte von solchen Dritten verletzt, zu kooperieren).
+
+Über iTunes: Unsere Handelsregisternummer ist RCS Luxemburg B 101 120.
+
+Adresse für Rückfragen und Dienstleistungen: iTunes Sarl, 31-33, rue Sainte Zithe, L-2763 Luxemburg.
+
+WEITERE NUTZUNGSBEDINGUNGEN FÜR DEN MAC APP STORE UND DEN APP STORE
+
+LIZENZ FÜR DIE PRODUKTE AUS DEM MAC APP STORE UND DEM APP STORE
+
+iTunes verkauft Ihnen eine Lizenz zur Nutzung der Softwareprodukte, die über den Mac App Store und den App Store verfügbar sind (zusammen die "App Store Produkte"). Es gibt folgende zwei (2) Kategorien von App Store Produkten: (i) solche App Store Produkte, die von Apple entwickelt wurden und die an Sie von iTunes lizenziert werden ("Apple Produkte"), und (ii) solche App Store Produkte, die von Dritt-Entwicklern entwickelt wurden und die an Sie von diesen Dritt-Entwicklern lizenziert werden ("Dritt-Produkte"). Die Kategorie eines jeden App Store Produktes (Apple Produkt oder Dritt-Produkt) wird in der Mac App Store Anwendung oder der App Store Anwendung identifiziert.
+
+Ihre Lizenz für jedes App Store Produkt unterliegt der Endnutzer-Lizenzvereinbarung für Lizenzierte Anwendungen, die unten dargestellt ist. Sie sind damit einverstanden, dass diese Bestimmungen anzuwenden sind, es sei denn, das App Store Produkt ist von einer gültigen Endnutzer-Lizenzvereinbarung erfasst, die zwischen Ihnen und dem Veröffentlicher dieses App Store Produktes (der "Veröffentlicher") abgeschlossen wurde. In diesem Fall findet die Endnutzer-Lizenzvereinbarung des Veröffentlichers auf das App Store Produkt Anwendung. Dem Veröffentlicher stehen alle Rechte in und an dem App Store Produkt zu, die Ihnen nicht ausdrücklich eingeräumt wurden.
+
+Die Lizenz für jedes Apple Produkt, das Sie über den Mac App Store oder den App Store Service erhalten oder mit Ihrem Konto verbinden, stellt eine bindende Vereinbarung zwischen Ihnen und iTunes dar. Sie wissen, dass, wenn Sie ein Dritt-Produkt von iTunes erwerben, Sie eine bindende Vereinbarung direkt mit dem Veröffentlicher des Dritt-Produktes abschließen, der Ihre Nutzung des Dritt-Produktes regelt; iTunes ist nicht Partei der Lizenzvereinbarung zwischen Ihnen und dem Veröffentlicher bezüglich dieses Dritt-Produktes. Der Veröffentlicher eines Dritt-Produktes ist ausschließlich für dieses Dritt-Produkt, die darin enthaltenen Inhalte, für etwaige Gewährleistung, soweit solche Gewährleistung nicht ausgeschlossen wurde, und für jegliche Ansprüche, die Sie oder ein anderer bezüglich dieses Dritt-Produktes haben könnten, verantwortlich.
+
+Sie erkennen an, dass iTunes und mit iTunes verbundene Unternehmen für jedes Dritt-Produkt Drittbegünstigte zu der Endnutzer-Lizenzvereinbarung für Lizenzierte Anwendungen oder zu der Endnutzer-Lizenzvereinbarung des Veröffentlichers sind. Mit Ihrer Zustimmung zu den Bedingungen der Lizenz bezüglich eines Dritt-Produktes erhält iTunes das Recht (und iTunes hat dieses Recht angenommen), diese Lizenz Ihnen gegenüber als ein Drittbegünstigter durchzusetzen.
+
+IN-APP KÄUFE
+
+Bestimmte App Store Produkte können Funktionen enthalten, die es Ihnen erlauben, zusätzliche Dienste oder Lizenzen zu weiteren Funktionalitäten oder Inhalten zu erhalten, um diese zusammen mit dem App Store Produkt zu nutzen ("In-App Käufe"). In-App Käufe, die während der Nutzung des App Store Produktes verbraucht werden (zum Beispiel virtuelle Munition), können nicht zwischen verschiedenen Geräten verschoben werden, können nur einmal heruntergeladen werden und können nach dem Download nicht ersetzt werden. Sobald ein verbrauchbarer In-App Kauf von Ihnen erworben wurde und Ihnen zuging, ist iTunes Ihnen nicht für Verlust, Zerstörung oder Beschädigung haftbar. Alle In-App Käufe gelten als App Store Produkte; In-App Käufe, die im Zusammenhang mit einem Dritt-Produkt erhalten werden, gelten als Dritt-Produkt und werden für Zwecke dieser Nutzungsbedingungen als solche behandelt.
+
+Bei In-App Käufen müssen Sie sich gesondert von jeglicher Authentifizierung zum Erhalt von App Store Produkten durch die Eingabe Ihres Passwortes authentifizieren, wenn Sie dazu aufgefordert werden. Nachdem Sie sich authentifiziert haben, um einen In-App Kauf zu erhalten, können Sie innerhalb der nächsten fünfzehn Minuten weitere In-App Käufe ohne erneute Passworteingabe erwerben. Sie können die Möglichkeit zum Erwerb von In-App Käufen auf Ihrem iOS Gerät deaktivieren, indem Sie unter Ihren Einstellungen, "Allgemein" und dann die "Einschränkungen" Schaltfläche auswählen, wie unter http://support.apple.com/kb/HT4213 näher beschrieben.
+
+IN-APP ABONNEMENTS
+
+Bestimmte App Store Produkte können Funktionalitäten enthalten, die es Ihnen ermöglichen, Inhalte auf der Basis eines Abonnements zu erwerben (“In-App Abonnements“). In-App Abonnements verlängern sich automatisch um die von Ihnen gewählte Laufzeit. Falls einschlägig, wird Ihr Konto nicht mehr als 24 Stunden vor dem Ablauf desder derzeitigen Laufzeit Ihres In-App Abonnements belastet. Sie können die automatische Verlängerung von bezahlten In-App Abonnements ausschalten, indem Sie in Ihren Kontoeinstellungen auf “App Abos verwalten“ gehen und das Abonnement auswählen, das Sie ändern wollen. Die automatische Verlängerungsfunktion des Abonnements wird ausgeschaltet, wenn der Veröffentlicher den Preis des Abonnements erhöht. Sie können kostenlose In-App Abonnements beenden, indem Sie das App Store Produkt von Ihrem Gerät löschen. Bestimmte bezahlte In-App Abonnements bieten gegebenenfalls eine gratis Testphase an, bevor Ihr Konto belastet wird. Wenn Sie sich dazu entschließen, das In-App Abonnement nicht zu erwerben, deaktivieren Sie die automatische Verlängerungsfunktion in Ihrem Konto während der gratis Testphase. Bestimmte In-App Abonnements können als „Newsstand“-Produkte gekennzeichnet sein; in diesem Fall werden sie nach dem Download nur innerhalb der Newsstand-Anwendung Ihres Gerätes erscheinen. Wir empfehlen außerdem, die zusätzlichen Informationen über ein Angebot zu bezahlten In-App Abonnements beim Kauf desselben über das App Store Produkt einzusehen. Wir holen gegebenenfalls Ihr Einverständnis ein, um den in Ihrem Konto angeführten Namen, die entsprechende Emailadresse und Postleitzahl dem Veröffentlicher zur Verfügung zu stellen, damit Ihnen dieser in Übereinstimmung mit seiner Datenschutzrichtlinie Werbung zu seinen eigenen Produkten zusenden kann. Wenn der Veröffentlicher diese Informationen erhält, werden diese in Übereinstimmung mit seiner öffentlich bekanntgemachten Datenschutzrichtlinie verarbeitet. Wir empfehlen Ihnen, sich mit den Datenschutzpraktiken des Veröffentlichers vertraut zu machen bevor Sie Ihr Einverständnis erteilen, dass Ihre personenbezogenen Daten an diesen weitergegeben werden. Für weitere Informationen siehe die Datenschutzrichtlinie des Veröffentlichers oder kontaktieren Sie den Veröffentlicher direkt. Kaufpreisrückerstattungen sind gemäß den Regelungen zum Widerrufsrecht wie oben beschrieben möglich. Es gibt keine weiteren Kaufpreisrückerstattungen, keine Rückgabe oder Vertragsaufhebung nach dem Kauf.
+
+"IN DER NÄHE BELIEBT"
+
+Wenn Sie die "In der Nähe beliebt"-Funktion wählen, wird Apple von Zeit zu Zeit automatisch Informationen zu bestimmten Ihrer App Store-Produkte sammeln, zum Beispiel Ihre Zeit, die mit jedem App Store-Produkt verbracht wird, und die Anzahl der Starts der einzelnen App Store-Produkte. Diese Informationen werden in anonymer Form gespeichert und nicht mit Ihrem Namen oder Ihrem Konto in Zusammenhang gebracht. Apple nutzt diese Informationen sowie andere Informationen, wie den Verlauf der heruntergeladenen App Store-Produkte, um Ihnen auf Sie zugeschnittene Empfehlungen erteilen zu können.Apple wird diese Informationen verwenden und mit anderen aggregierten Informationen von anderen Nutzern, die diese Funktion gewählt haben, mit Informationen zu Ihren bisherigen Einkäufen über den iTunes Store, mit Informationen zu Ihren Downloads aus dem App Store, mit aggregierten Informationen zu den App Store Produkt-Downloads von anderen Nutzern und mit anderen Informationen, wie Kundenbewertungen zu App Store Produkten, verbinden, um hiermit:
+
+• Ihnen Empfehlungen zu App Store Produkten, Medien und anderen Produkten and Diensten zu erteilen, die Sie vielleicht gerne kaufen, herunterladen oder nutzen möchten.
+
+• Anderen Nutzern Empfehlungen zu erteilen.
+
+Ihre Informationen werden stets im Einklang mit der Apple Datenschutzrichtlinie behandelt.
+
+Wenn Sie nicht wollen, dass wir Informationen von Ihrem Gerät oder System in dieser Art und Weise sammeln und nutzen, dürfen Sie die Standortdiense und die „In der Nähe beliebt“ Funktion nicht aktivieren. Sie können Ihre Einwilligung jederzeit widerrufen, indem Sie die “In der Nähe beliebt“-Funktion im Menü der Systemdienste oder in den Einstellungen des Standortdienstes Ihres Gerätes abschalten.
+
+NUTZUNGSREGELN FÜR MAC APP STORE PRODUKTE
+
+Soweit hierin nichts anderes geregelt ist, gilt das Folgende:
+
+(i) Wenn Sie eine für sich selbst handelnde Einzelperson sind, können Sie eine Anwendung vom Mac App Store (“Mac App Store Produkt“) herunterladen, um sie für private, nicht-gewerbliche Zwecke auf einem Gerät von Apple, das mit Mac OS X betrieben wird (“Mac Computer“) und das Ihnen gehört oder in Ihrem Besitz ist, zu nutzen.
+
+(ii) Wenn Sie ein Unternehmen oder eine Bildungseinrichtung sind, können Sie ein Mac App Store Produkt herunterladen, damit es entweder von (a) einer einzelnen Person auf jedem von dieser Person genutzten Mac Computer, der Ihnen gehört oder in Ihrem Besitz ist, oder (b) mehreren Personen auf einem einzelnen, geteilten Mac Computer, der Ihnen gehört oder in Ihrem Besitz ist, benutzt wird. Zum Beispiel kann ein einzelner Arbeitnehmer ein Mac App Store Produkt sowohl auf seinem Desktop Mac Computer als auch auf seinem Laptop Mac Computer nutzen oder mehrere Studenten können nacheinander ein Mac App Store Produkt auf einem einzelnen Mac Computer, der sich in einem Informationszentrum oder in einer Bibliothek befindet, nutzen. Klarstellend sei dabei erwähnt, dass für jeden genutzten Mac Computer, der von mehreren Nutzern benutzt wird, eine separate Lizenz erforderlich ist.
+
+(iii) Die Nutzung von Mac App Store Produkten kann die Anmeldung mit der Apple ID erfordern, die zum Herunterladen des Mac App Store Produkts aus dem Mac App Store verwendet wird. Mac App Store Produkte können nur über den Mac App Store aktualisiert werden.
+
+NUTZUNGSREGELN FÜR APP STORE PRODUKTE
+
+(i) Wenn Sie eine für sich selbst handelnde Einzelperson sind, können Sie ein App Store Produkt auf jedem iOS Gerät, das Ihnen gehört oder in Ihrem Besitz ist, herunterladen und synchronisieren, um es für private, nicht-gewerbliche Zwecke zu nutzen.
+
+(ii) Wenn Sie ein Unternehmen oder eine Bildungseinrichtung sind, können Sie ein App Store Produkt herunterladen oder synchronisieren, damit es entweder von (a) einer einzelnen Person auf einem oder mehreren von dieser Person genutzten iOS Geräten, die Ihnen gehören oder in Ihrem Besitz sind, benutzt wird, oder (b) mehreren Personen auf einem einzelnen, geteilten iOS Gerät, das Ihnen gehört oder in Ihrem Besitz ist, benutzt wird. Zum Beispiel kann ein einzelner Arbeitnehmer ein App Store Produkt sowohl auf dem iPhone als auch auf dem iPad des Arbeitnehmers nutzen oder mehrere Studenten können nacheinander ein App Store Produkt auf einem einzelnen iPad, das sich in einem Informationszentrum oder in einer Bibliothek befindet, nutzen. Klarstellend sei dabei erwähnt, dass für jedes genutzte iOS Gerät, das von mehreren Nutzern benutzt wird, eine separate Lizenz erforderlich ist.
+
+(iii) Sie können App Store Produkte von bis zu fünf verschiedenen Konten gleichzeitig auf einem kompatiblen iOS Gerät speichern.
+
+(iv) Sie können App Store Produkte manuell von mindestens einem iTunes-autorisierten Gerät mit iOS Geräten synchronisieren, die einen manuellen Synchronisierungs-Modus haben, vorausgesetzt, dass das App Store Produkt auf dem primären iTunes-autorisierten Gerät mit einem Konto verbunden ist. Das primäre iTunes-autorisierte Gerät in diesem Sinne ist das Gerät, das zuerst mit dem iOS Gerät synchronisiert wurde oder das Sie später mittels der iTunes Anwendung als primäres Gerät bestimmt haben.
+
+PFLEGE UND UNTERSTÜTZUNG BEI MAC APP STORE UND APP STORE PRODUKTEN
+
+iTunes ist nur dafür verantwortlich, Pflege- und Unterstützungsdienstleistungen für Apple Produkte zu erbringen, wie in der Endnutzer-Lizenzvereinbarung für Lizenzierte Anwendungen oder in einer separaten Endnutzer-Lizenzvereinbarung beschrieben oder wie vom anwendbaren Recht verlangt. Der Veröffentlicher von Dritt-Produkten ist allein für die Erbringung von Pflege- und Unterstützungsdienstleistungen für Dritt-Produkte verantwortlich, wie in der Endnutzer-Lizenzvereinbarung für Lizenzierte Anwendungen oder in der Endnutzer-Lizenzvereinbarung des Veröffentlichers beschrieben oder wie vom anwendbaren Recht verlangt.
+
+ENDNUTZER-LIZENZVEREINBARUNG FÜR LIZENZIERTE ANWENDUNGEN
+
+Die Mac App Store Produkte und App Store Produkte (zusammen die “App Store Produkte“), die über den Mac App Store und den App Store (zusammen die “App Stores“) verfügbar sind, werden an Sie lizenziert, nicht verkauft. Ihre Lizenz für jedes einzelne App Store Produkt, das Sie über die App Stores erworben haben oder mit Ihrem Konto verbinden, bedarf Ihrer vorherigen Zustimmung zu dieser Endnutzer-Lizenzvereinbarung für Lizenzierte Anwendungen (“Standard-EULA“). Sie erklären sich damit einverstanden, dass die Bedingungen dieser Standard-EULA auf jedes App Store Produkt zur Anwendung kommt, für das Sie über die App Stores eine Lizenz erwerben, es sei denn, das App Store Produkt ist von einer gültigen Endnutzer-Lizenzvereinbarung, die zwischen Ihnen und dem Veröffentlicher des App Store Produktes abgeschlossen wurde, erfasst. In diesem Fall gelten die Bestimmungen dieser gesonderten Endnutzer-Lizenzvereinbarung. Ihre Lizenz für ein Apple Produkt unter dieser Standard-EULA oder einer gesonderten Endnutzer-Lizenzvereinbarung wird Ihnen von iTunes eingeräumt und Ihre Lizenz für Dritt-Produkte unter dieser Standard-EULA oder einer gesonderten Endnutzer-Lizenzvereinbarung wird Ihnen vom Veröffentlicher des Dritt-Produktes eingeräumt. Jedes App Store Produkt, das einer Lizenz unterliegt, die unter dieser Standard-EULA eingeräumt wurde, wird hierin als "Lizenzierte Anwendung" bezeichnet. Der Veröffentlicher oder iTunes (die "Lizenzgeber") behalten sich alle Rechte in und an der Lizenzierten Anwendung, die Ihnen nicht ausdrücklich unter dieser Standard-EULA eingeräumt wurden, vor.
+
+a. Umfang der Lizenz: Die Lizenz, die Ihnen für die Lizenzierte Anwendung durch den Lizenzgeber eingeräumt wird, beschränkt sich auf die Einräumung eines nicht-übertragbaren Nutzungsrechts an der Lizenzierten Anwendung auf einem Gerät von Apple, das je nachdem mit iOS (insbesondere iPad, iPhone und iPod touch) (“iOS Geräte“) oder mit Mac OS X (“Mac Computer“) betrieben wird (zusammen die “Apple Geräte“) und das Ihnen gehört oder in Ihrem Besitz steht, und entsprechend der Nutzungsregeln, wie sie in den Nutzungsbedingungen des Mac App Stores, des App Stores und des iBooks Stores dargestellt sind (die "Nutzungsregeln"). Diese Lizenz erlaubt es Ihnen nicht, die Lizenzierte Anwendung auf einem Apple-Gerät zu nutzen, das Ihnen nicht gehört oder nicht in Ihrem Besitz steht. Soweit in den Nutzungsregeln nichts Gegenteiliges regelt ist, dürfen Sie die Lizenzierte Anwendung nicht vertreiben oder über ein Netzwerk zur Verfügung stellen, über das es von mehreren Geräten zur gleichen Zeit genutzt werden kann. Sie dürfen die Lizenzierte Anwendung nicht vermieten, verleihen, verkaufen, übertragen, weitervertreiben oder unterlizenzieren. Wenn Sie Ihren Mac Computer oder Ihr iOS Gerät an einen Dritten verkaufen, müssen Sie die Lizenzierten Anwendungen von dem Mac Computer oder dem iOS Gerät vor dem Verkauf entfernen. Sie dürfen die Lizenzierte Anwendung, die Updates der Lizenzierten Anwendung oder Teile davon nicht kopieren (es sei denn, dies wird von dieser Lizenz und den Nutzungsregeln ausdrücklich erlaubt), nicht dekompilieren, nicht zurückentwickeln, nicht auseinandernehmen, nicht versuchen, den Sourcecode der Lizenzierten Anwendung zu erlangen, die Lizenzierte Anwendung nicht bearbeiten oder abgeleitete Werke aus der Lizenzierten Anwendung erstellen (es sei denn und soweit eine der vorgenannten Beschränkungen nach anwendbarem Recht unzulässig ist oder die Lizenzbestimmungen, die die Nutzung einer Open-Source-Komponente als Teil der Lizenzierten Anwendung regeln, dies erlauben). Jeder Versuch ist bereits eine Verletzung der Rechte des Lizenzgebers und seiner Lizenzgeber. Wenn Sie diese Beschränkungen nicht befolgen, könnten Sie strafrechtlich verfolgt werden und Schadenersatz leisten müssen.
+
+Die Bestimmungen dieser Lizenz finden auch auf alle Upgrades, die vom Lizenzgeber zur Verfügung gestellt werden und die die ursprüngliche Lizenzierte Anwendung ersetzen oder ergänzen, Anwendung, es sei denn, ein solches Upgrade unterliegt einer separaten Lizenz. In diesem Fall unterliegt das Upgrade den Bestimmungen der separaten Lizenz.
+
+b. Einwilligung in die Verarbeitung von Daten: Sie willigen ein, dass der Lizenzgeber technische Daten und damit im Zusammenhang stehende Informationen ermitteln, verarbeiten und nutzen darf - einschließlich technischer Informationen zu Ihrem Gerät, zum System, zu Softwareanwendungen und zur Systemumgebung. Diese Informationen werden regelmäßig ermittelt, um die Zurverfügungstellung von Softwareupdates, Produktunterstützung und anderen Diensten (falls einschlägig) an Sie im Zusammenhang mit der Lizenzierten Anwendung zu ermöglichen. Der Lizenzgeber kann diese Informationen verarbeiten und nutzen, so lange diese anonymisiert sind und Ihre Identität nicht preisgegeben wird, um hierdurch seine Produkte zu verbessern oder um Ihnen Dienstleistungen oder Technologien zur Verfügung zu stellen.
+
+c. Kündigung: Die Lizenz besteht bis zur Kündigung Ihrerseits oder durch den Lizenzgeber. Ihre Rechte unter dieser Lizenz enden automatisch ohne eine entsprechende Mitteilung seitens des Lizenzgebers, wenn Sie die Bedingungen dieser Lizenz nicht einhalten. Nach Kündigung der Lizenz müssen Sie jede Nutzung der Lizenzierten Anwendung einstellen und alle Kopien, ob vollständige oder teilweise Kopien, der Lizenzierten Anwendung zerstören.
+
+d. Dienste; Materialien von Dritten: Gegebenenfalls ermöglicht die Lizenzierte Anwendung Zugang zu Diensten und Internetseiten des Lizenzgebers und/oder eines Dritten (zusammengefasst und einzeln bezeichnet als "Externe Dienste"). Die Nutzung von Externen Diensten erfordert einen Internetzugang; die Nutzung bestimmter Externer Dienste erfordert Ihr Einverständnis mit zusätzlichen Nutzungsbedingungen.
+
+Wenn Sie Externe Dienste nutzen, können Sie gegebenenfalls auf Inhalte stoßen, die als beleidigend, unanständig oder anstößig empfunden werden und die nicht als solche gekennzeichnet sind. Außerdem kann das Ergebnis jeder Suche oder die Eingabe einer bestimmten URL-Adresse automatisch und unabsichtlich Links oder Verweise auf anstößige Materialien erzeugen. Nichtsdestotrotz wissen Sie, dass Sie die Externen Dienste auf Ihr eigenes Risiko nutzen und dass weder der Lizenzgeber noch seine Bevollmächtigten Ihnen gegenüber für Inhalte haften, die als beleidigend, unanständig oder anstößig empfunden werden.
+
+Bestimmte Externe Dienste können Inhalte, Daten, Information, Anwendungen oder Materialien von Dritten ("Materialien von Dritten“) darstellen, enthalten oder solche zur Verfügung stellen oder Links auf gewisse Internetseiten von Dritten bereithalten. Wenn Sie die Externen Dienste benutzen, erkennen Sie an, dass weder der Lizenzgeber noch seine Bevollmächtigten für die Überprüfung und Bewertung der Inhalte, der Richtigkeit, der Vollständigkeit, der Aktualität, der Gültigkeit, der Übereinstimmung mit Urheberrechten, der Rechtmäßigkeit, der Anständigkeit, der Qualität oder von anderen Aspekten von solchen Materialien oder Webseiten Dritter verantwortlich sind. Im Hinblick auf Externe Dienste, Materialien von Dritten oder Webseiten von Dritten oder auf sonstige Materialien, Produkte oder Dienste von Dritten machen weder der Lizenzgeber, noch Bevollmächtigte oder Verantwortliche des Lizenzgebers oder mit dem Lizenzgeber verbundene Unternehmen und Tochtergesellschaften irgendwelche Zusicherungen und geben keine Bestätigungen und übernehmen und tragen keine Haftung oder Verantwortung Ihnen oder sonstigen Personen gegenüber. Materialien von Dritten und Links von Dritten auf andere Internetseiten werden nur als Gefälligkeit zur Verfügung gestellt.
+
+Finanzielle Informationen, die bei den Externen Diensten dargestellt werden, dienen nur der allgemeinen Information und sollten nicht als Investitionsratschlag herangezogen zu werden. Bevor Sie irgendwelche Wertpapiertransaktionen durchführen, die auf Informationen beruhen, die Sie über die Externen Dienste erlangt haben, sollten Sie mit einem professionellen Finanz- oder Wertpapierberater sprechen, der aus rechtlicher Sicht qualifiziert ist, in Finanz- oder Wertpapierangelegenheiten in Ihrem Land oder Ihrer Region zu beraten. Medizinische Informationen die durch ein App-Store Produkt oder Externe Dienste angezeigt werden, sind ausschließlich zur allgemeinen Information und sollten nicht für eine medizinische Diagnose oder Behandlung genutzt werden, ausgenommen bei entsprechenden Anweisungen durch einen Arzt. Sie sollten professionelle medizinische Beratung in Anspruch nehmen, bevor Sie sich auf medizinische Informationen eines App Store Produktes verlassen. Informationen zu Ortsangaben, die von einem Externen Dienst angeboten werden, dienen nur der groben Ortsangabe. Sie sollten sich nicht darauf verlassen, wenn Sie exakte Ortsangaben benötigen oder wenn falsche, ungenaue, zeitverzögerte oder unvollständige Ortsangaben zum Tode, zu Körperschäden oder zu Sach- oder Umweltschäden führen können. Die Nutzung der Echtzeit-Routenführung erfolgt auf eigene Gefahr. Ortsangaben können ungenau sein. Weder der Lizenzgeber noch seine Bevollmächtigten oder einer seiner Anbieter von Inhalten sichern die Verfügbarkeit, Genauigkeit, Vollständigkeit, Zuverlässigkeit oder Aktualität von Aktienkursinformationen, Ortsangaben oder anderer Daten, die von Externen Diensten dargestellt werden, zu.
+
+Sie wissen, dass die Externen Dienste geschützte Inhalte, Informationen und Materialien enthalten, die dem Lizenzgeber und/oder seinen Bevollmächtigten oder seinen Lizenzgebern gehören und die von den anwendbaren Gesetzen zum Schutz des geistigen Eigentums und von anderen Gesetzen, einschließlich dem Urheberrechtsgesetz, geschützt sind. Sie sind verpflichtet, diese geschützten Inhalte, Informationen oder Materialien nicht zu nutzen, es sei denn, die Nutzung der Externen Dienste ist Ihnen gestattet diese geschützten Inhalte, Informationen oder Materialien nicht in einer Art und Weise zu nutzen, die nicht im Einklang mit den Bedingungen dieser Standard-EULA steht oder die geistige Eigentumsrechte von Dritten, iTunes oder Apple verletzt. Kein Teil der Externen Dienste darf in irgendeiner Form vervielfältigt werden. Sie dürfen die Externen Dienste nicht bearbeiten, vermieten, verleihen, verkaufen, verbreiten oder auf den Externen Diensten beruhende abgeleitete Werke herstellen. Sie dürfen die Externen Dienste nicht unbefugt verwerten, insbesondere nicht durch die Externen Dienste zur Übertragung von Computerviren, Würmern, Trojanern oder anderer Schadsoftware oder zum Eindringen in oder zur Belastung von Netzwerkkapazitäten verwenden. Sie werden die Externen Dienste außerdem nicht dazu benutzen, um jemanden zu belästigen, zu beschimpfen, zu stalken, zu bedrohen, zu diffamieren oder um in sonstiger Weise die Rechte eines anderen zu verletzen. Weder der Lizenzgeber noch seine Bevollmächtigten sind im Falle einer solchen Nutzung durch Sie, oder wenn Sie belästigende, drohende, diffamierende, beleidigende, rechtsverletzende oder illegale Nachrichten oder Übermittlungen als Folge Ihrer Nutzung der Externen Dienste erhalten, verantwortlich.
+
+Zudem sind Externe Dienste von Dritten oder Materialien von Dritten, die von Apple Geräten aus zugänglich sind, von Apple Geräten dargestellt werden oder mit Apple Geräten verlinkt sind, nicht in allen Sprachen oder in allen Ländern oder Regionen verfügbar. Der Lizenzgeber sichert nicht zu, dass solche Externen Dienste und Materialien angemessen oder in allen Gebieten verfügbar sind. Soweit Sie sich dazu entschlossen haben, die Externen Dienste und Materialien zu nutzen oder auf diese zuzugreifen, treffen Sie diese Entscheidung freiwillig und sind für die Einhaltung der anwendbaren Gesetze verantwortlich, einschließlich der anwendbaren lokalen Gesetze. Der Lizenzgeber behält sich das Recht vor, jederzeit die Externen Dienste ohne Benachrichtigung zu ändern, vorübergehend zu unterbinden, zu entfernen oder den Zugang zu Externen Diensten zu unterbrechen. In keinem Fall haftet der Lizenzgeber für die Entfernung von oder die Unterbrechung des Zugangs zu Externen Diensten. Der Lizenzgeber kann außerdem die Nutzung von und den Zugang zu gewissen Externen Diensten beschränken, egal aus welchem Grund und ohne Mitteilungspflicht oder Haftung.
+
+e. KEINE GEWÄHRLEISTUNG: Der Lizenzgeber wird die Lizenzierte Anwendung mit angemessener Sorgfalt zur Verfügung stellen und angemessene Sorgfalt hinsichtlich der Externen Dienste anwenden, welche mittels der Lizenzierten Anwendung erbracht oder zur Verfügung gestellt werden. Der Lizenzgeber gibt keine sonstigen Versprechen oder Zusicherungen im Hinblick auf die Externen Dienste ab und gewährleistet insbesondere nicht, dass:
+
+(i) Ihre Nutzung der Externen Dienste ohne Unterbrechung oder fehlerfrei sein wird;
+
+(ii) die Externen Dienste frei von Verlusten, Korruption, Angriffen, Viren, Eingriffen, Hacking oder anderen sicherheitsrelevanten Störungen sein werden, und der Lizenzgeber schließt jegliche Haftung in diesem Zusammenhang aus. Für den Backup Ihres Systems sind Sie verantwortlich, inklusive des Backups sämtlicher Lizenzierter Anwendungen, welche auf Ihrem System gespeichert sind.
+
+f. Haftungsbeschränkung
+
+(i) Soweit nicht unten (ii) eingreift sind der Lizenzgeber, seine Direktoren, Manager, Arbeitnehmer, verbundenen Unternehmen, Bevollmächtigten, Auftragnehmer, Auftraggeber oder Lizenzgeber keinesfalls für Verluste oder Schaden haftbar, die durch den Lizenzgeber, seine Arbeitnehmer oder Bevollmächtigten verursacht wurden, wenn:
+
+(1) keine rechtliche Sorgfaltspflicht verletzt wurde, die der Lizenzgeber oder ein Arbeitnehmer oder Bevollmächtigter des Lizenzgebers schuldet;
+
+(2) es sich nicht um eine vernünftigerweise vorhersehbare Folge einer solchen Verletzung handelt;
+
+(3) eine etwaige Steigerung des Verlustes oder Schadens auf einer Verletzung einer Bestimmung dieser Endnutzer-Lizenzvereinbarung ("Vereinbarung") durch Sie beruht;
+
+(4) es auf eine Entscheidung des Lizenzgeber zurückzuführen ist, Sie zu warnen, Ihren Zugriff auf die Externen Dienste zu unterbinden oder zu beenden oder andere Maßnahmen während der Untersuchung von vermuteten Verletzungen zu ergreifen oder als Folge dessen, dass der Lizenzgeber zum Schluss kommt, dass eine Verletzung dieser Vereinbarung erfolgt ist;
+
+(5) es im Zusammenhang steht mit Einkommensverlust, Verlust von Geschäften oder entgangenem Gewinn oder mit Verlust oder Verfälschung von Daten im Zusammenhang mit Ihrer Nutzung der Lizenzierten Anwendung.
+
+(ii) Nichts in dieser Vereinbarung soll die Haftung des Lizenzgebers wegen Betrug, grober Fahrlässigkeit, vorsätzlichen Verhaltens, oder für Tod oder Körperverletzung aufgrund von Fahrlässigkeit des Lizenzgebers ausschließen oder begrenzen.
+
+g. Sie dürfen die Lizenzierte Anwendung nicht nutzen oder sonst wie exportieren oder re-exportieren, außer es ist von den Gesetzen der USA und den Gesetzen des Landes, in dem die Lizenzierte Anwendung erworben wurde, erlaubt. Insbesondere darf die Lizenzierte Anwendung nicht (a) in Embargo-Länder der USA oder (b) an Personen, die auf der "Specially Designated Nationals"-Liste des U.S. Treasury Departments oder auf der "Denied Persons"-Liste oder der "Denied Entity"-Liste des US Department of Commerce stehen, exportiert oder re-exportiert werden. Mit der Nutzung der Lizenzierten Anwendung sichern Sie zu, dass Sie sich nicht in einem dieser Länder befinden und nicht auf einer dieser Listen stehen. Sie werden diese Produkte nicht für Zwecke benutzen, die nach dem Recht der USA verboten sind, insbesondere nicht um Nuklearwaffen, Raketen, Chemie- oder Biowaffen zu entwickeln, zu entwerfen, herzustellen oder zu produzieren.
+
+h. Die Lizenzierte Anwendung und damit im Zusammenhang stehende Dokumentation sind "Commercial Items", wie in 48 C.F.R. §2.101 definiert, bestehend aus "Commercial Computer Software" und "Commercial Computer Software Dokumentation" wie in 48 C.F.R. §12.212 oder 48 C.F.R. §227.702 benutzt. Im Einklang mit 48 C.F.R. § 12.212. oder 48 C.F.R. § 227.7202-1 bis 227.7202-4 werden Commercial Computer Software und Commercial Computer Software Dokumentation an Endnutzer des US Governments (a) nur als Commercial Items und (b) nur mit den Rechten, die auch allen anderen Endnutzern entsprechend der Nutzungsbedingungen eingeräumt werden, lizenziert. Nicht-veröffentlichte Rechte unter den Urhebergesetzen von den USA werden vorbehalten.
+
+i. Diese Lizenz und Ihre Nutzung der Lizenzierten Anwendung unterliegen den Gesetzen der Republik Österreich. Ihre Nutzung der Lizenzierten Anwendung kann auch anderen lokalen, länderrechtlichen, bundesrechtlichen oder internationalen Gesetzen unterliegen.
+
+WEITERE NUTZUNGSBEDINGUNGEN FÜR DEN IBOOKS STORE
+
+LIZENZ FÜR IBOOKS STORE PRODUKTE
+
+iTunes verkauft Ihnen eine Lizenz zur Nutzung der Inhalte, die über den iBooks Store verfügbar sind (die "iBooks Store Produkte"). Wenn Sie eine Lizenz von iTunes erwerben, bildet diese Lizenz eine bindende Vereinbarung zwischen Ihnen und dem Dritt-Anbieter des iBooks Store Produktes (der "Veröffentlicher"), die Ihre Nutzung des iBooks Store Produktes regelt; iTunes ist nicht Partei der Lizenzvereinbarung zwischen Ihnen und dem Veröffentlicher betreffend das iBooks Store Produkt; der Veröffentlicher des jeweiligen iBooks Store Produktes behält sich das Recht vor, die Nutzungsbedingungen bezüglich des iBooks Store Produktes durchzusetzen. Der Veröffentlicher des jeweiligen iBooks Store Produktes ist allein für das iBooks Store Produkt, dessen Inhalt, für die Gewährleistung, soweit solche Gewährleistung nicht ausgeschlossen wurde, und für etwaige Ansprüche von Ihnen oder von Dritten bezogen auf das iBooks Store Produkt oder auf Ihre Nutzung des iBooks Store Produktes verantwortlich.
+
+Ihnen ist bekannt, dass iBooks Store Produkte, die auf einem Computer gekauft werden, nicht auf jedem Computer lesbar sind, sondern nur auf einem iOS Gerät mit kompatibler Software.
+
+NUTZUNGSREGELN FÜR IBOOKS STORE PRODUKTE
+
+(i) Sie dürfen die iBooks Store Produkte nur zu privaten, nicht-gewerblichen Zwecken nutzen.
+
+(ii) Sie dürfen iBooks Store Produkte von bis zu fünf verschiedenen Konten gleichzeitig auf gewissen iOS-basierten Geräten, wie zum Beispiel einem iPad, iPod touch oder iPhone, speichern.
+
+(iii) Sie dürfen die iBooks Store Produkte auf fünf iTunes-autorisierten Geräten (wie zum Beispiel einem Computer) gleichzeitig speichern.
+
+(iv) Mit der Lieferung von iBooks Store Produkten werden Ihnen nicht die Rechte für eine Nutzung der iBooks Store Produkte zu Werbezwecken eingeräumt oder das Recht, die iBooks Store Produkte auf CD zu brennen.
+
+(v) Sie können iBooks Store Produkte manuell von mindestens einem iTunes-autorisierten Gerät mit solchen Geräten synchronisieren, die einen manuellen Synchronisierungs-Modus haben, vorausgesetzt, dass das iBooks Store Produkt auf dem primären iTunes-autorisierten Gerät mit einem Konto verbunden ist. Das primäre iTunes-autorisierte Gerät in diesem Sinne ist das Gerät, das zuerst mit dem Gerät synchronisiert wurde oder das Sie später mittels der iTunes Anwendung als primäres Gerät bestimmt haben.
+
+Letzte Aktualisierung: 02 January 2015
